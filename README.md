@@ -15,31 +15,34 @@
 
 3. Three conserved enzymes, DNA methyltransferase 1 (DNMT1), DNMT3A and DNMT3B, are responsible for its deposition and maintenance and are essential for normal development [5,6].
 
-4. Mammalian genomes are globally CpG­ depleted and, of the roughly *28 million CpGs in the human genome*, *60–80% are generally methylated*. *Less than 10% of CpGs occur in CG­ dense* regions that are termed *CpG islands*; These are *prevalent* at transcription start sites(TSS) of *housekeeping* and *developmental* regulator genes, where they are largely resistant to DNA methylation[7]. 
+4. Mammalian genomes are globally CpG­ depleted and, of the roughly **28 million CpGs in the human genome**, **60–80% are generally methylated**. **Less than 10% of CpGs occur in CG­ dense** regions that are termed **CpG islands**; These are **prevalent** at transcription start sites(TSS) of **housekeeping** and **developmental** regulator genes, where they are largely resistant to DNA methylation[7]. 
 
 ### 3.1 Region Specific DNA Methylation
 
 #### 1) Unmethylated non-promoter CpG Island
 
-1. Nearly half of the unmethylated CpG islands identified in mam­malian genomes do not occur at annotated promoters, although many of these so­called ‘*orphan*’ CpG islands show similar epigenetic features [29]. 
+1. Nearly half of the unmethylated CpG islands identified in mam­malian genomes do not occur at annotated promoters, although many of these so­called ‘**orphan**’ CpG islands show similar epigenetic features [29]. 
 
 
 #### 2) Promoter unmethylation
 
-1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively *hypomethylated*. 
+1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**. 
 
 ![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
 
-Figure 1:  *Most transcription start site (TSS)-associated CpG islands are protected from DNA methylation*. Components that confer this protection include: transcription factor (‘TF’ in the figure) binding; nucleosome exclusion; and histone H3 lysine 4 (H3K4) methyltransferases, such as SET domain containing 1A (SETD1A; recruitment of which is directed by CXXC finger protein 1 (CFP1)) or MLL proteins. Active transcription may also inhibit DNA methylation by forming DNA–nascent RNA helices, which induce R-loops of single-strand DNA (ssDNA) that exclude /de novo/methylation. The presence of catalytic enzymes associated with DNA demethylation, such as the TET enzymes or thymidine DNA glycosylase (TDG), may prevent aberrant methylation. (Figure from  Fig1a of Smith, Z. D., & Meissner, A at al 2013) [1]
-2. *TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers* which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
+Figure 1:  **Most transcription start site (TSS)-associated CpG islands are protected from DNA methylation**. Components that confer this protection include: transcription factor (‘TF’ in the figure) binding; nucleosome exclusion; and histone H3 lysine 4 (H3K4) methyltransferases, such as SET domain containing 1A (SETD1A; recruitment of which is directed by CXXC 
+finger protein 1 (CFP1)) or MLL proteins. Active transcription may also inhibit DNA methylation by forming DNA–nascent RNA helices, which induce R-loops of single-strand DNA (ssDNA) that exclude
+/de novo/methylation. The presence of catalytic enzymes associated with DNA demethylation, such as the TET enzymes or thymidine DNA glycosylase (TDG), may prevent aberrant methylation. (Figure from  Fig1a of Smith, Z. D., & Meissner, A at al 2013) [1]
+
+2. **TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers** which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
 
 	* CpG islands can progressively accrue heritable methylation if they are truncated or depleted of known transcription factor binding sites [30, 31].
 	* Transfer of an SP1 binding site into an endogenously methylated locus induced appreci­able local demethylation, confirming the dominance of transcription factor binding over DNA methylation in this context [30].
 	* Low-methylated regions (LMRs) are occupied by cell-type-specific DNA-binding factors and their binding is necessary and sufficient to create LMRs in mouse neuronal and stem cells [26].
 
-3. *Histone modification*s and variants are also significant in maintaining hypomethylated states at CpG islands.
+3. **Histone modification**s and variants are also significant in maintaining hypomethylated states at CpG islands.
 
-	* *CFP1* (CXXC finger protein 1, also known as CXXC1) recruits histone H3 lysine 4 (*H3K4*) methyltransferases and is sufficient to main­tain ectopic, CG­rich transgenes that lack promoter features or transcription in an unmethylated state [33]. However, CFP1-­knockout cells lose local H3K4 tri­methylation (*H3K4me3*) without changes in expression or promoter DNA methylation [34]. 
+	* **CFP1** (CXXC finger protein 1, also known as CXXC1) recruits histone H3 lysine 4 (**H3K4**) methyltransferases and is sufficient to main­tain ectopic, CG­rich transgenes that lack promoter features or transcription in an unmethylated state [33]. However, CFP1-­knockout cells lose local H3K4 tri­methylation (**H3K4me3**) without changes in expression or promoter DNA methylation [34]. 
  
 
 
@@ -57,22 +60,22 @@ Figure 1:  *Most transcription start site (TSS)-associated CpG islands are prote
 #### 1) DNMT1
 1. The DNA methyltransferase 1 (/Dnmt1/) transcript is constitutively expressed in dividing cells and is most abundant on entry into S phase owing to cell‐cycle‐specific transcription factors[8]. 
 
-2. *DNMT1 is recruited* to DNA replication sites *through direct interactions* with proliferating cell nuclear antigen (*PCNA*) and *UHRF1* (also known as NP95), *which binds hemimethylated DNA* via its SET‐ and RING‐associated (SRA) domain [9, 10, 11].  
+2. **DNMT1 is recruited** to DNA replication sites **through direct interactions** with proliferating cell nuclear antigen (**PCNA**) and **UHRF1** (also known as NP95), **which binds hemimethylated DNA** via its SET‐ and RING‐associated (SRA) domain [9, 10, 11].  
 
-3. Core PCNA–UHRF1–DNMT1 interactions operate within a larger complex that includes chromatin‐associated enzymes that also regulate DNMT1 through opposing post‐translational modifications. The histone acetyltransferase TIP60 and methyltransferase SET7 target  DNMT1 and trigger polyubiquitylation, which regulates recruitment and degradation [15, 16]. *These modifications are opposed during the peak of DNMT1 activity by HDAC1*, in complex with DNA‐bound DNMT1 and presumably through histone *demethylases* such as *LSD1*  [17, 18].
+3. Core PCNA–UHRF1–DNMT1 interactions operate within a larger complex that includes chromatin‐associated enzymes that also regulate DNMT1 through opposing post‐translational modifications. The histone acetyltransferase TIP60 and methyltransferase SET7 target  DNMT1 and trigger polyubiquitylation, which regulates recruitment and degradation [15, 16]. **These modifications are opposed during the peak of DNMT1 activity by HDAC1**, in complex with DNA‐bound DNMT1 and presumably through histone **demethylases** such as **LSD1**  [17, 18].
 
 
 #### 2) UHRF1
 
-1. *UHRF1 directs DNMT1 to hemimethylated sites*, binding specifically to the parental, methylated strand to orient the recruited methyltransferase correctly to new DNA [12, 13]. 
+1. **UHRF1 directs DNMT1 to hemimethylated sites**, binding specifically to the parental, methylated strand to orient the recruited methyltransferase correctly to new DNA [12, 13]. 
 
-2. *UHRF1 ablation induces embryonic lethality* with similar features to the effects of DNMT1 loss, including *global hypomethylation* [10, 11]. 
+2. **UHRF1 ablation induces embryonic lethality** with similar features to the effects of DNMT1 loss, including **global hypomethylation** [10, 11]. 
 
-3. *UHRF1 binding to H3K9me2/me3 during S phase is essential for recruitment of this maintenance complex*(see DNMT1 Item 3) [19]. These interactions ensure that DNMT1 activity is stabilized only when in complex with other heterochromatin‐associated proteins and only during DNA replication, providing the fidelity and processivity necessary to recreate a precise, global methylation landscape. 
+3. **UHRF1 binding to H3K9me2/me3 during S phase is essential for recruitment of this maintenance complex**(see DNMT1 Item 3) [19]. These interactions ensure that DNMT1 activity is stabilized only when in complex with other heterochromatin‐associated proteins and only during DNA replication, providing the fidelity and processivity necessary to recreate a precise, global methylation landscape. 
 
 #### 3) PCNA
 
-1. Proliferating cell nuclear antigen (*PCNA*) is a *DNA* clamp that acts as a processivity factor for *DNA polymerase* δ in eukaryotic cells and is essential for *replication*.  It achieves processivity by encircling the DNA, where it *acts as a scaffold to recruit proteins* involved in DNA replication, DNA repair, chromatin remodeling and epigenetics [14].
+1. Proliferating cell nuclear antigen (**PCNA**) is a **DNA** clamp that acts as a processivity factor for **DNA polymerase** δ in eukaryotic cells and is essential for **replication**.  It achieves processivity by encircling the DNA, where it **acts as a scaffold to recruit proteins** involved in DNA replication, DNA repair, chromatin remodeling and epigenetics [14].
 
 ### 3.3 DNA methylation dynamics
 
@@ -86,7 +89,7 @@ Figure 1:  *Most transcription start site (TSS)-associated CpG islands are prote
 
 #### 2) CpG island hypermethylation in aging and  tumorigenesis
 
-*CpG islands* are frequently *hypermethylated* during *tumorigenesis*, *ageing* or /in vitro/ culture through a mechanism that probably involves low‐frequency *seeding* of DNA methylation that triggers rapid, terminal heterochromatin formation [20]. Sequences that are hemimethylated /in vitro/often become hypermethylated when integrated into the genome, even when the DNMT3 enzymes are deleted, suggesting that recognition of these seeds by DNMT1 is sufficient to drive the assembly of *heterochromatin*.  Given the dangers of such changes, a number of localized components for catalytic *demethylation* appear to function as a part of CpG‐island‐recognizing epigenetic complexes.
+**CpG islands** are frequently **hypermethylated** during **tumorigenesis**, **ageing** or /in vitro/ culture through a mechanism that probably involves low‐frequency **seeding** of DNA methylation that triggers rapid, terminal heterochromatin formation [20]. Sequences that are hemimethylated /in vitro/often become hypermethylated when integrated into the genome, even when the DNMT3 enzymes are deleted, suggesting that recognition of these seeds by DNMT1 is sufficient to drive the assembly of **heterochromatin**.  Given the dangers of such changes, a number of localized components for catalytic **demethylation** appear to function as a part of CpG‐island‐recognizing epigenetic complexes.
 
 ### 3.4 DNA methylation enzymes
 
@@ -105,9 +108,9 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 
 1. Thymine DNA glycosylase (TDG), a base excision repair (BER) protein, recognizes uracil–guanidine and hydroxyuracil–guanidine mismatches that occur at previously methylated cytosines targeted by TET‐mediated oxidation and activation induced cytidine deaminase (AICDA; also known as AID)‐mediated deamination [27].
 
-2. *TDG* and other BER components appear to operate in *complexes* with *MLL* and the histone acetyltransferase *p300*, possibly stabilizing recruitment of these larger complexes to target *promoters* [27, 28]. 
+2. **TDG** and other BER components appear to operate in **complexes** with **MLL** and the histone acetyltransferase **p300**, possibly stabilizing recruitment of these larger complexes to target **promoters** [27, 28]. 
 
-3. Tdg *knockout* is embryonic‐*lethal* , and in these knockouts low‐level methylation *accrues* at *CGI promoters* [27, 28], by contrast, *Aicda*- or *Tet1*‐ *knockout* mice develop to term and appear *overtly normal*. 
+3. Tdg **knockout** is embryonic‐**lethal** , and in these knockouts low‐level methylation **accrues** at **CGI promoters** [27, 28], by contrast, **Aicda**- or **Tet1**‐ **knockout** mice develop to term and appear **overtly normal**. 
 
 ## Reference
 
@@ -178,17 +181,3 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 [33]. Thomson, J. P., Skene, P. J., Selfridge, J., Clouaire, T., Guy, J., Webb, S., … & Turner, D. J. (2010). CpG islands influence chromatin structure via the CpG-binding protein Cfp1. /Nature/, /464/(7291), 1082-1086.
 
 [34]. Clouaire, T., Webb, S., Skene, P., Illingworth, R., Kerr, A., Andrews, R., … & Bird, A. (2012). Cfp1 integrates both CpG content and gene activity for accurate H3K4me3 deposition in embryonic stem cells. /Genes & development/, /26/(15), 1714-1728.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
