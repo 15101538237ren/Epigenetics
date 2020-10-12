@@ -28,9 +28,9 @@
 
 1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively *hypomethylated*. 
 
-![Figure 1] [image:47FBAFD7-EF5C-46A4-B579-A9E073446642-26781-0000872B2BEC8DBD/Fig1a.png]
+![Figure 1] [https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png]
 
-Figure 1:  from  Fig1a of Smith, Z. D., & Meissner, A at al 2013 [1]
+		Figure 1:  from  Fig1a of Smith, Z. D., & Meissner, A at al 2013 [1]
 
 2. *TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers* which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
 
