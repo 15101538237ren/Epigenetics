@@ -26,9 +26,10 @@
 
 #### 2) Promoter unmethylation
 
-1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**. 
+Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**. 
 
 ![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
+
 Figure 1:  **Most transcription start site (TSS)-associated CpG islands are protected from DNA methylation**. Components that confer this protection include: 
 * 1). Transcription factor (‘TF’ in the figure) binding
 * 2). Nucleosome exclusion
@@ -36,13 +37,13 @@ Figure 1:  **Most transcription start site (TSS)-associated CpG islands are prot
 * 4). Active transcription may also inhibit DNA methylation by forming DNA–nascent RNA helices, which induce R-loops of single-strand DNA (ssDNA) that exclude/de novo/methylation
 * 5). The presence of catalytic enzymes associated with DNA demethylation, such as the TET enzymes or thymidine DNA glycosylase (TDG), may prevent aberrant methylation. (Figure from  Fig1a of Smith, Z. D., & Meissner, A at al 2013) [1]
 
-2. **TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers** which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
+1. **TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers** which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
 
 	* CpG islands can progressively accrue heritable methylation if they are truncated or depleted of known transcription factor binding sites [30, 31].
 	* Transfer of an SP1 binding site into an endogenously methylated locus induced appreci­able local demethylation, confirming the dominance of transcription factor binding over DNA methylation in this context [30].
 	* Low-methylated regions (LMRs) are occupied by cell-type-specific DNA-binding factors and their binding is necessary and sufficient to create LMRs in mouse neuronal and stem cells [26].
 
-3. **Histone modifications and variants** are also significant in maintaining hypomethylated states at CpG islands.
+2. **Histone modifications and variants** are also significant in maintaining hypomethylated states at CpG islands.
 
 	* **CFP1** (CXXC finger protein 1, also known as CXXC1) recruits histone H3 lysine 4 (**H3K4**) methyltransferases and is sufficient to main­tain ectopic, CG­rich transgenes that lack promoter features or transcription in an unmethylated state [33]. However, CFP1-­knockout cells lose local H3K4 tri­methylation (**H3K4me3**) without changes in expression or promoter DNA methylation [34].  This could reflect a difference between /de novo/ assembly of euchromatin and the retention of redundant protective mechanisms at already active loci. (See Figure 1)
 
@@ -52,17 +53,32 @@ Figure 1:  **Most transcription start site (TSS)-associated CpG islands are prot
 
 	 * The histone vari­ant **H2A.Z** is strongly enriched at unmethylated, active promoters [38].  When DNA methylation is chemically inhibited by azacytidine (a hypomethylating agent), H2A.Z­ containing nucleosomes encroach into adjacent regions [39].  This supports a model in which epigenetic modifications and histone variants associated with transcription (such as H2A.Z) may be limited to their functional targets by surrounding DNA methylation [38, 39]. 
 
-4. Many housekeep­ ing gene promoters have an asymmetric GC distribution downstream of their transcriptional start sites [43]. This GC skew may inhibit  DNMT3s recruitment by forming a single­ stranded DNA loop (known as an R­loop), through complementary base pairing between nascent RNA and the template strand [43]. Inversion of this GC asymmetry negates RNA–DNA helix formation and induces de novo methylation [43].  (See Figure 1)
+3. Many housekeep­ ing gene promoters have an asymmetric GC distribution downstream of their transcriptional start sites [43]. This GC skew may inhibit  DNMT3s recruitment by forming a single­ stranded DNA loop (known as an R­loop), through complementary base pairing between nascent RNA and the template strand [43]. Inversion of this GC asymmetry negates RNA–DNA helix formation and induces de novo methylation [43].  (See Figure 1)
 
 
-5. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by **H3K27 methylation**, which may also protect them from spurious DNA methylation [40, 41]. 
+4. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by **H3K27 methylation**, which may also protect them from spurious DNA methylation [40, 41]. 
 
+#### 3) De novo methylation at repressed promoters
 
+![Figure 2](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig2.png)
  
-#### 3) Intragenic region methylation
+Repressed promoters, particularly those of lower CpG density, acquire DNA methylation during develop­ment.  The requirement of both H3K9 methylation and DNA methylation for complete, stable promoter silencing suggests a model in which H3K9 methylation initiates heterochromatin formation and DNA methylation ensures long­term silencing [51]. (See Figure 2). 
+
+* Targeting: TFs such as RAR(retinoic­acid­response nuclear recep­tors) in the context of embryonic stem cell (ESC) differentiation often participate in proper targeting [44]. 
+
+
+* Participants: 1) Both  **DNMT3A** and **DNMT3B** target promoters in complex with other **epigenetic repressors**, including 2) histone deacetylases (**HDACs**), 3) methyltransferases associ­ated with repressive **H3K9** methylation (H3K9 dimethyltrans­ferase **G9A**) and also with **nucleosome remodeller** (LSH, ) for heterochromatin assembly through interactions with epigenetic repressors.  
+
+* The nucleosome remodeling may provide nucleosomes in previously depleted regions to act as a **template** for epigenetic silencing [45, 46, 47]. 
+
+- LSH is co­recruited with the H3K9 dimethyltrans­ferase G9A (also known as EHMT2) in complex with DNMT3A or DNMT3B [48, 49]. The catalytic activity of G9A stabilizes and accelerates repression, but its bind­ ing activity is often sufficient for DNA methylation [49, 50]. 
+
+
+
+
+#### 4) Intragenic region methylation
 
 1. Those CpG islands that occur at intragenic regions are more frequently methylated during development and may contribute more nuanced regulatory functions [29].
-
 
 ### 3.2 DNA methylation maintenance
  
@@ -218,3 +234,19 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 [42]. Jones, P. A. (2012). Functions of DNA methylation: islands, start sites, gene bodies and beyond. /Nature Reviews Genetics/, /13/(7), 484-492.
 
 [43]. Ginno, P. A., Lott, P. L., Christensen, H. C., Korf, I., & Chédin, F. (2012). R-loop formation is a distinctive characteristic of unmethylated human CpG island promoters. /Molecular cell/, /45/(6), 814-825.
+
+[44]. Schoorlemmer, J., Van Puijenbroek, A., van Den Eijnden, M. M. E. D., Jonk, L., Pals, C., & Kruijer, W. (1994). Characterization of a negative retinoic acid response element in the murine Oct4 promoter. /Molecular and cellular biology/, /14/(2), 1122-1136.
+
+[45]. Dennis, K., Fan, T., Geiman, T., Yan, Q., & Muegge, K. (2001). Lsh, a member of the SNF2 family, is required for genome-wide methylation. /Genes & development/, /15/(22), 2940-2944.
+
+[46]. Zhu, H., Geiman, T. M., Xi, S., Jiang, Q., Schmidtmann, A., Chen, T., … & Muegge, K. (2006). Lsh is involved in de novo methylation of DNA. /The EMBO journal/, /25/(2), 335-345.
+
+[47]. Myant, K., & Stancheva, I. (2008). LSH cooperates with DNA methyltransferases to repress transcription. /Molecular and cellular biology/, /28/(1), 215-226.
+
+[48]. Myant, K., Termanis, A., Sundaram, A. Y., Boe, T., Li, C., Merusi, C., … & Stancheva, I. (2011). LSH and G9a/GLP complex are required for developmentally programmed DNA methylation. /Genome research/, /21/(1), 83-94.
+
+[49]. Epsztejn-Litman, S., Feldman, N., Abu-Remaileh, M., Shufaro, Y., Gerson, A., Ueda, J., … & Bergman, Y. (2008). De novo DNA methylation promoted by G9a prevents reprogramming of embryonically silenced genes. /Nature structural & molecular biology/, /15/(11), 1176-1183.
+
+[50]. Dong, K. B., Maksakova, I. A., Mohn, F., Leung, D., Appanah, R., Lee, S., … & Tachibana, M. (2008). DNA methylation in ES cells requires the lysine methyltransferase G9a but not its catalytic activity. /The EMBO journal/, /27/(20), 2691-2701.
+
+[51]. Ayyanathan, K., Lechner, M. S., Bell, P., Maul, G. G., Schultz, D. C., Yamada, Y., … & Rauscher, F. J. (2003). Regulated recruitment of HP1 to a euchromatic gene induces mitotically heritable, epigenetic gene silencing: a mammalian cell culture model of gene variegation. /Genes & development/, /17/(15), 1855-1869.
