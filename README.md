@@ -28,7 +28,7 @@
 
 1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively *hypomethylated*. 
 
-![Figure 1] [https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png]
+![Figure 1][https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png]
 
 		Figure 1:  from  Fig1a of Smith, Z. D., & Meissner, A at al 2013 [1]
 
