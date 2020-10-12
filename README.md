@@ -44,13 +44,19 @@ Figure 1:  **Most transcription start site (TSS)-associated CpG islands are prot
 
 3. **Histone modifications and variants** are also significant in maintaining hypomethylated states at CpG islands.
 
-	* **CFP1** (CXXC finger protein 1, also known as CXXC1) recruits histone H3 lysine 4 (**H3K4**) methyltransferases and is sufficient to main­tain ectopic, CG­rich transgenes that lack promoter features or transcription in an unmethylated state [33]. However, CFP1-­knockout cells lose local H3K4 tri­methylation (**H3K4me3**) without changes in expression or promoter DNA methylation [34].  This could reflect a difference between /de novo/ assembly of euchromatin and the retention of redundant protective mechanisms at already active loci. 
+	* **CFP1** (CXXC finger protein 1, also known as CXXC1) recruits histone H3 lysine 4 (**H3K4**) methyltransferases and is sufficient to main­tain ectopic, CG­rich transgenes that lack promoter features or transcription in an unmethylated state [33]. However, CFP1-­knockout cells lose local H3K4 tri­methylation (**H3K4me3**) without changes in expression or promoter DNA methylation [34].  This could reflect a difference between /de novo/ assembly of euchromatin and the retention of redundant protective mechanisms at already active loci. (See Figure 1)
 
-	* Binding of the MLL family H3K4 methyltransferases protects promoters of developmental genes from DNA methylation, and this is also likely to be instructed through their CXXC domains [35].
+	* Binding of the MLL family H3K4 methyltransferases protects promoters of developmental genes from DNA methylation, and this is also likely to be instructed through their CXXC domains [35]. (See Figure 1)
 	
-	* The **DNMT3** enzymes each contain an ADD domain (ATRX–DNMT3–DNMT3L)  that **recognizes unmodified H3** and is allosterically **inhibited by H3K4 methylation** [36, 37]. 
+	* The **DNMT3** enzymes each contain an ADD domain (ATRX–DNMT3–DNMT3L)  that recognizes unmodified H3 and is allosterically inhibited by  **H3K4 methylation** [36, 37]. (See Figure 1)
 
-	 * The histone vari­ant H2A.Z is strongly enriched at unmethylated, active promoters [38].  When DNA methylation is chemically inhibited by azacytidine (a hypomethylating agent), H2A.Z­ containing nucleosomes encroach into adjacent regions [39].  This supports a model in which epigenetic modifications and histone variants associated with transcription (such as H2A.Z) may be limited to their functional targets by surrounding DNA methylation [38, 39]. 
+	 * The histone vari­ant **H2A.Z** is strongly enriched at unmethylated, active promoters [38].  When DNA methylation is chemically inhibited by azacytidine (a hypomethylating agent), H2A.Z­ containing nucleosomes encroach into adjacent regions [39].  This supports a model in which epigenetic modifications and histone variants associated with transcription (such as H2A.Z) may be limited to their functional targets by surrounding DNA methylation [38, 39]. 
+
+4. Many housekeep­ ing gene promoters have an asymmetric GC distribution downstream of their transcriptional start sites [43]. This GC skew may inhibit  DNMT3s recruitment by forming a single­ stranded DNA loop (known as an R­loop), through complementary base pairing between nascent RNA and the template strand [43]. Inversion of this GC asymmetry negates RNA–DNA helix formation and induces de novo methylation [43].  (See Figure 1)
+
+
+5. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by **H3K27 methylation**, which may also protect them from spurious DNA methylation [40, 41]. 
+
 
  
 #### 3) Intragenic region methylation
@@ -93,7 +99,16 @@ Figure 1:  **Most transcription start site (TSS)-associated CpG islands are prot
 
 #### 2) CpG island hypermethylation in aging and  tumorigenesis
 
-**CpG islands** are frequently **hypermethylated** during **tumorigenesis**, **ageing** or /in vitro/ culture through a mechanism that probably involves low‐frequency **seeding** of DNA methylation that triggers rapid, terminal heterochromatin formation [20]. Sequences that are hemimethylated /in vitro/often become hypermethylated when integrated into the genome, even when the DNMT3 enzymes are deleted, suggesting that recognition of these seeds by DNMT1 is sufficient to drive the assembly of **heterochromatin**.  Given the dangers of such changes, a number of localized components for catalytic **demethylation** appear to function as a part of CpG‐island‐recognizing epigenetic complexes.
+1. **CpG islands** are frequently **hypermethylated** during **tumorigenesis**, **ageing** or /in vitro/ culture through a mechanism that probably involves low‐frequency **seeding** of DNA methylation that triggers rapid, terminal heterochromatin formation [20]. Sequences that are hemimethylated /in vitro/often become hypermethylated when integrated into the genome, even when the DNMT3 enzymes are deleted, suggesting that recognition of these seeds by DNMT1 is sufficient to drive the assembly of **heterochromatin**.  Given the dangers of such changes, a number of localized components for catalytic **demethylation** appear to function as a part of CpG‐island‐recognizing epigenetic complexes.
+
+2. Large­scale screen­ ing of cancer or age­related disease cohorts revealed a general trend for regions that are normally regulated by *H3K27* methylation to be frequently *hypermethyl­ated*, suggesting that transcriptionally repressed CpG­ island­ containing genes may be less stably protected from DNA methylation [42]. 
+
+3. Proofreading enzymes, such as the TET dioxygenases, cytosine deaminases and base excision repair (BER) enzymes, are also tightly coupled to regu­ latory complexes that are associated with promoters or enhancers and may prevent infrequent aberrations that could otherwise trigger hypermethylation. (See Figure 1)
+
+
+
+
+
 
 ### 3.4 DNA methylation enzymes
 
@@ -196,15 +211,10 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 
 [39]. Yang, X., Noushmehr, H., Han, H., Andreu-Vieyra, C., Liang, G., & Jones, P. A. (2012). Gene reactivation by 5-Aza-2′-deoxycytidine–induced demethylation requires SRCAP–mediated H2A. Z insertion to establish nucleosome depleted regions. /PLoS Genet/, /8/(3), e1002604.
 
+[40]. Brinkman, A. B., Gu, H., Bartels, S. J., Zhang, Y., Matarese, F., Simmer, F., … & Stunnenberg, H. G. (2012). Sequential ChIP-bisulfite sequencing enables direct genome-scale investigation of chromatin and DNA methylation cross-talk. /Genome research/, /22/(6), 1128-1138.
 
+[41]. Bartke, T., Vermeulen, M., Xhemalce, B., Robson, S. C., Mann, M., & Kouzarides, T. (2010). Nucleosome-interacting proteins regulated by DNA and histone methylation. /Cell/, /143/(3), 470-484.
 
+[42]. Jones, P. A. (2012). Functions of DNA methylation: islands, start sites, gene bodies and beyond. /Nature Reviews Genetics/, /13/(7), 484-492.
 
-
-
-
-
-
-
-
-
-
+[43]. Ginno, P. A., Lott, P. L., Christensen, H. C., Korf, I., & Chédin, F. (2012). R-loop formation is a distinctive characteristic of unmethylated human CpG island promoters. /Molecular cell/, /45/(6), 814-825.
