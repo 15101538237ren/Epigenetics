@@ -30,8 +30,7 @@
 
 ![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
 
-		Figure 1:  from  Fig1a of Smith, Z. D., & Meissner, A at al 2013 [1]
-
+	Figure 1:  *Most transcription start site (TSS)-associated CpG islands are protected from DNA methylation*. Components that confer this protection include: transcription factor (‘TF’ in the figure) binding; nucleosome exclusion; and histone H3 lysine 4 (H3K4) methyltransferases, such as SET domain containing 1A (SETD1A; recruitment of which is directed by CXXC finger protein 1 (CFP1)) or MLL proteins. Active transcription may also inhibit DNA methylation by forming DNA–nascent RNA helices, which induce R-loops of single-strand DNA (ssDNA) that exclude /de novo/methylation. The presence of catalytic enzymes associated with DNA demethylation, such as the TET enzymes or thymidine DNA glycosylase (TDG), may prevent aberrant methylation. (Figure from  Fig1a of Smith, Z. D., & Meissner, A at al 2013) [1]
 2. *TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers* which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
 
 	* CpG islands can progressively accrue heritable methylation if they are truncated or depleted of known transcription factor binding sites [30, 31].
