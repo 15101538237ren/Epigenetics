@@ -3,16 +3,16 @@
 This repository is for literature summary on Epigenetic topics.
 
 # Literature Review in Epigenetic and Gene Regulation
-## Fundamental questions
+
+## 1. Overview
+1. The regulation of gene expression is primarily encoded in /cis/and is directed by transcription factors [1].
+
+## 2. Fundamental questions
 1. How epigenetic modifications are interpreted and inherited and 2) how they influence genomic output before, during or after a cell­-fate transition are fundamental questions to our understanding of development. 
 
 2. How DNA methylation is globally and locally modulated, and for what purpose, remain compelling questions, as only a few robust and general rules have been formulated. 
 
-## Overview
-1. The regulation of gene expression is primarily encoded in /cis/and is directed by transcription factors [1].
-
-
-## DNA methylation
+## 3. DNA methylation
 1. Methylation of the fifth position of cytosine is one of the best studied and most mechanistically understood epigenetic modifications and is well conserved among most plant, animal and fungal models[2]. 
 
 2. In mammals, cytosine methylation is primarily restricted to the sym­metrical CpG context [3,4].
@@ -21,33 +21,33 @@ This repository is for literature summary on Epigenetic topics.
 
 4. Mammalian genomes are globally CpG­ depleted and, of the roughly *28 million CpGs in the human genome*, *60–80% are generally methylated*. *Less than 10% of CpGs occur in CG­ dense* regions that are termed *CpG islands*; These are *prevalent* at transcription start sites(TSS) of *housekeeping* and *developmental* regulator genes, where they are largely resistant to DNA methylation[7]. 
 
-### Region Specific DNA Methylation
+### 3.1 Region Specific DNA Methylation
 
-#### Unmethylated non-promoter CpG Island
+#### 1) Unmethylated non-promoter CpG Island
 
 1. Nearly half of the unmethylated CpG islands identified in mam­malian genomes do not occur at annotated promoters, although many of these so­called ‘*orphan*’ CpG islands show similar epigenetic features [29]. 
 
 
-#### Promoter unmethylation
+#### 2) Promoter unmethylation
 
 1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively *hypomethylated*. 
 
-#### Intragenic region methylation
+#### 3) Intragenic region methylation
 
 1. Those CpG islands that occur at intragenic regions are more frequently methylated during development and may contribute more nuanced regulatory functions [29].
 
 
-### DNA methylation maintenance
+### 3.2 DNA methylation maintenance
  
 
-#### DNMT1
+#### 1) DNMT1
 1. The DNA methyltransferase 1 (/Dnmt1/) transcript is constitutively expressed in dividing cells and is most abundant on entry into S phase owing to cell‐cycle‐specific transcription factors[8]. 
 
 2. *DNMT1 is recruited* to DNA replication sites *through direct interactions* with proliferating cell nuclear antigen (*PCNA*) and *UHRF1* (also known as NP95), *which binds hemimethylated DNA* via its SET‐ and RING‐associated (SRA) domain [9, 10, 11].  
 3. Core PCNA–UHRF1–DNMT1 interactions operate within a larger complex that includes chromatin‐associated enzymes that also regulate DNMT1 through opposing post‐translational modifications. The histone acetyltransferase TIP60 and methyltransferase SET7 target  DNMT1 and trigger polyubiquitylation, which regulates recruitment and degradation [15, 16]. *These modifications are opposed during the peak of DNMT1 activity by HDAC1*, in complex with DNA‐bound DNMT1 and presumably through histone *demethylases* such as *LSD1*  [17, 18].
 
 
-#### UHRF1
+#### 2) UHRF1
 
 1. *UHRF1 directs DNMT1 to hemimethylated sites*, binding specifically to the parental, methylated strand to orient the recruited methyltransferase correctly to new DNA [12, 13]. 
 
@@ -55,15 +55,13 @@ This repository is for literature summary on Epigenetic topics.
 
 3. *UHRF1 binding to H3K9me2/me3 during S phase is essential for recruitment of this maintenance complex*(see DNMT1 Item 3) [19]. These interactions ensure that DNMT1 activity is stabilized only when in complex with other heterochromatin‐associated proteins and only during DNA replication, providing the fidelity and processivity necessary to recreate a precise, global methylation landscape. 
 
-4. 
-
-#### PCNA
+#### 3) PCNA
 
 1. Proliferating cell nuclear antigen (*PCNA*) is a *DNA* clamp that acts as a processivity factor for *DNA polymerase* δ in eukaryotic cells and is essential for *replication*.  It achieves processivity by encircling the DNA, where it *acts as a scaffold to recruit proteins* involved in DNA replication, DNA repair, chromatin remodeling and epigenetics [14].
 
-### DNA methylation dynamics
+### 3.3 DNA methylation dynamics
 
-#### Demethylation in development
+#### 1) Demethylation in development
 
 1. Both TET1 and TET2, but not TET3, are highly expressed within embryonic stem cells (ESCs) [23], and the genome‐wide binding pattern of TET1 is known [24, 25]. 
 
@@ -71,17 +69,15 @@ This repository is for literature summary on Epigenetic topics.
 
 
 
-#### CpG island hypermethylation in aging and  tumorigenesis
+#### 2) CpG island hypermethylation in aging and  tumorigenesis
 
 *CpG islands* are frequently *hypermethylated* during *tumorigenesis*, *ageing* or /in vitro/ culture through a mechanism that probably involves low‐frequency *seeding* of DNA methylation that triggers rapid, terminal heterochromatin formation [20]. Sequences that are hemimethylated /in vitro/often become hypermethylated when integrated into the genome, even when the DNMT3 enzymes are deleted, suggesting that recognition of these seeds by DNMT1 is sufficient to drive the assembly of *heterochromatin*.  Given the dangers of such changes, a number of localized components for catalytic *demethylation* appear to function as a part of CpG‐island‐recognizing epigenetic complexes.
 
-### DNA methylation enzymes
+### 3.4 DNA methylation enzymes
 
-#### Demethylation enzymes
+#### 1) Demethylation enzymes
 
-##### Overview
-
-1. The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydroxymethylcytosine, which is a potentially crucial intermediate for full reversal to an unmethylated cytosine [22]. 
+The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydroxymethylcytosine, which is a potentially crucial intermediate for full reversal to an unmethylated cytosine [22]. 
 
 ##### TET1
 
