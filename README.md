@@ -62,6 +62,10 @@ Figure 1:  **Most transcription start site (TSS)-associated CpG islands are prot
 
 ![Figure 2](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig2.png)
  
+Figure 2. Stable silencing of promoter regions requires recruitment of repressive transcription factors, which direct the recruitment 
+of the chromatin remodeller LSH, linker histone H1, heterochromatin protein 1 (HP1), H3K9 methyltransferases (the G9A–GLP complex is shown) and /de novo/ DNA methyltransferases, frequently 
+in that order. At germline gene promoters, DNMT3B is more directly involved in gene silencing than at other genes and acts downstream of transcriptional repressors (E2F6 is shown).  (Figure from  Fig1b of Smith, Z. D., & Meissner, A at al 2013) [1]
+
 Repressed promoters, particularly those of lower CpG density, acquire DNA methylation during develop­ment.  The requirement of both H3K9 methylation and DNA methylation for complete, stable promoter silencing suggests a model in which H3K9 methylation initiates heterochromatin formation and DNA methylation ensures long­term silencing [51]. (See Figure 2). 
 
 * Targeting: TFs such as RAR(retinoic­acid­response nuclear recep­tors) in the context of embryonic stem cell (ESC) differentiation often participate in proper targeting [44]. 
