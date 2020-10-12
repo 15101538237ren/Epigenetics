@@ -28,6 +28,12 @@
 
 1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively *hypomethylated*. 
 
+2. *TF binding and even TF binding sequences are sufficient for CGI promoter to maintain hypometh­ylated state* which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
+	* CpG islands can progressively accrue heritable methylation if they are truncated or depleted of known transcription factor binding sites [30, 31].
+	* Transfer of an SP1 binding site into an endogenously methylated locus induced appreci­able local demethylation, confirming the dominance of transcription factor binding over DNA methylation in this context [30].
+
+
+
 #### 3) Intragenic region methylation
 
 1. Those CpG islands that occur at intragenic regions are more frequently methylated during development and may contribute more nuanced regulatory functions [29].
@@ -150,17 +156,8 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 
 [29]. Illingworth, R. S., Gruenewald-Schneider, U., Webb, S., Kerr, A. R., James, K. D., Turner, D. J., … & Bird, A. P. (2010). Orphan CpG islands identify numerous conserved promoters in the mammalian genome. /PLoS Genet/, /6/(9), e1001134.
 
+[30]. Macleod, D., Charlton, J., Mullins, J., & Bird, A. P. (1994). Sp1 sites in the mouse aprt gene promoter are required to prevent methylation of the CpG island. /Genes & development/, /8/(19), 2282-2292.
 
+[31]. Brandeis, M., Frank, D., Keshet, I., Siegfried, Z., Mendelsohn, M., Temper, V., … & Cedar, H. (1994). Spl elements protect a CpG island from de novo methylation. /Nature/, /371/(6496), 435-438.
 
-
-
-
-
-
-
-
-
-
-
-
-
+[32]. Lienert, F., Wirbelauer, C., Som, I., Dean, A., Mohn, F., & Schübeler, D. (2011). Identification of genetic elements that autonomously determine DNA methylation states. /Nature genetics/, /43/(11), 1091-1097.
