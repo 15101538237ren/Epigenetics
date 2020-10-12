@@ -28,9 +28,18 @@
 
 1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively *hypomethylated*. 
 
-2. *TF binding and even TF binding sequences are sufficient for CGI promoter to maintain hypometh­ylated state* which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
+2. *TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers* which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
+
 	* CpG islands can progressively accrue heritable methylation if they are truncated or depleted of known transcription factor binding sites [30, 31].
 	* Transfer of an SP1 binding site into an endogenously methylated locus induced appreci­able local demethylation, confirming the dominance of transcription factor binding over DNA methylation in this context [30].
+	* Low-methylated regions (LMRs) are occupied by cell-type-specific DNA-binding factors and their binding is necessary and sufficient to create LMRs in mouse neuronal and stem cells [26].
+
+3. *Histone modification*s and variants are also significant in maintaining hypomethylated states at CpG islands.
+
+	* *CFP1* (CXXC finger protein 1, also known as CXXC1) recruits histone H3 lysine 4 (*H3K4*) methyltransferases and is sufficient to main­tain ectopic, CG­rich transgenes that lack promoter features or transcription in an unmethylated state [33]. However, CFP1-­knockout cells lose local H3K4 tri­methylation (*H3K4me3*) without changes in expression or promoter DNA methylation [34]. 
+ 
+
+
 
 
 
@@ -46,6 +55,7 @@
 1. The DNA methyltransferase 1 (/Dnmt1/) transcript is constitutively expressed in dividing cells and is most abundant on entry into S phase owing to cell‐cycle‐specific transcription factors[8]. 
 
 2. *DNMT1 is recruited* to DNA replication sites *through direct interactions* with proliferating cell nuclear antigen (*PCNA*) and *UHRF1* (also known as NP95), *which binds hemimethylated DNA* via its SET‐ and RING‐associated (SRA) domain [9, 10, 11].  
+
 3. Core PCNA–UHRF1–DNMT1 interactions operate within a larger complex that includes chromatin‐associated enzymes that also regulate DNMT1 through opposing post‐translational modifications. The histone acetyltransferase TIP60 and methyltransferase SET7 target  DNMT1 and trigger polyubiquitylation, which regulates recruitment and degradation [15, 16]. *These modifications are opposed during the peak of DNMT1 activity by HDAC1*, in complex with DNA‐bound DNMT1 and presumably through histone *demethylases* such as *LSD1*  [17, 18].
 
 
@@ -161,3 +171,7 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 [31]. Brandeis, M., Frank, D., Keshet, I., Siegfried, Z., Mendelsohn, M., Temper, V., … & Cedar, H. (1994). Spl elements protect a CpG island from de novo methylation. /Nature/, /371/(6496), 435-438.
 
 [32]. Lienert, F., Wirbelauer, C., Som, I., Dean, A., Mohn, F., & Schübeler, D. (2011). Identification of genetic elements that autonomously determine DNA methylation states. /Nature genetics/, /43/(11), 1091-1097.
+
+[33]. Thomson, J. P., Skene, P. J., Selfridge, J., Clouaire, T., Guy, J., Webb, S., … & Turner, D. J. (2010). CpG islands influence chromatin structure via the CpG-binding protein Cfp1. /Nature/, /464/(7291), 1082-1086.
+
+[34]. Clouaire, T., Webb, S., Skene, P., Illingworth, R., Kerr, A., Andrews, R., … & Bird, A. (2012). Cfp1 integrates both CpG content and gene activity for accurate H3K4me3 deposition in embryonic stem cells. /Genes & development/, /26/(15), 1714-1728.
