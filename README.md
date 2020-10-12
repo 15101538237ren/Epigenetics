@@ -29,12 +29,11 @@
 1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**. 
 
 ![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
-
 Figure 1:  **Most transcription start site (TSS)-associated CpG islands are protected from DNA methylation**. Components that confer this protection include: 
-* 1). Transcription factor (‘TF’ in the figure) binding; 
+* 1). Transcription factor (‘TF’ in the figure) binding
 * 2). Nucleosome exclusion
-* 3). Histone H3 lysine 4 (H3K4) methyltransferases, such as SET domain containing 1A (SETD1A; recruitment of which is directed by CXXC finger protein 1 (CFP1)) or MLL proteins. 
-* 4). Active transcription may also inhibit DNA methylation by forming DNA–nascent RNA helices, which induce R-loops of single-strand DNA (ssDNA) that exclude/de novo/methylation. 
+* 3). Histone H3 lysine 4 (H3K4) methyltransferases, such as SET domain containing 1A (SETD1A; recruitment of which is directed by CXXC finger protein 1 (CFP1)) or MLL proteins
+* 4). Active transcription may also inhibit DNA methylation by forming DNA–nascent RNA helices, which induce R-loops of single-strand DNA (ssDNA) that exclude/de novo/methylation
 * 5). The presence of catalytic enzymes associated with DNA demethylation, such as the TET enzymes or thymidine DNA glycosylase (TDG), may prevent aberrant methylation. (Figure from  Fig1a of Smith, Z. D., & Meissner, A at al 2013) [1]
 
 2. **TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers** which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
@@ -43,15 +42,17 @@ Figure 1:  **Most transcription start site (TSS)-associated CpG islands are prot
 	* Transfer of an SP1 binding site into an endogenously methylated locus induced appreci­able local demethylation, confirming the dominance of transcription factor binding over DNA methylation in this context [30].
 	* Low-methylated regions (LMRs) are occupied by cell-type-specific DNA-binding factors and their binding is necessary and sufficient to create LMRs in mouse neuronal and stem cells [26].
 
-3. **Histone modification**s and variants are also significant in maintaining hypomethylated states at CpG islands.
+3. **Histone modifications and variants** are also significant in maintaining hypomethylated states at CpG islands.
 
-	* **CFP1** (CXXC finger protein 1, also known as CXXC1) recruits histone H3 lysine 4 (**H3K4**) methyltransferases and is sufficient to main­tain ectopic, CG­rich transgenes that lack promoter features or transcription in an unmethylated state [33]. However, CFP1-­knockout cells lose local H3K4 tri­methylation (**H3K4me3**) without changes in expression or promoter DNA methylation [34]. 
+	* **CFP1** (CXXC finger protein 1, also known as CXXC1) recruits histone H3 lysine 4 (**H3K4**) methyltransferases and is sufficient to main­tain ectopic, CG­rich transgenes that lack promoter features or transcription in an unmethylated state [33]. However, CFP1-­knockout cells lose local H3K4 tri­methylation (**H3K4me3**) without changes in expression or promoter DNA methylation [34].  This could reflect a difference between /de novo/ assembly of euchromatin and the retention of redundant protective mechanisms at already active loci. 
+
+	* Binding of the MLL family H3K4 methyltransferases protects promoters of developmental genes from DNA methylation, and this is also likely to be instructed through their CXXC domains [35].
+	
+	* The **DNMT3** enzymes each contain an ADD domain (ATRX–DNMT3–DNMT3L)  that **recognizes unmodified H3** and is allosterically **inhibited by H3K4 methylation** [36, 37]. 
+
+	 * The histone vari­ant H2A.Z is strongly enriched at unmethylated, active promoters [38].  When DNA methylation is chemically inhibited by azacytidine (a hypomethylating agent), H2A.Z­ containing nucleosomes encroach into adjacent regions [39].  This supports a model in which epigenetic modifications and histone variants associated with transcription (such as H2A.Z) may be limited to their functional targets by surrounding DNA methylation [38, 39]. 
+
  
-
-
-
-
-
 #### 3) Intragenic region methylation
 
 1. Those CpG islands that occur at intragenic regions are more frequently methylated during development and may contribute more nuanced regulatory functions [29].
@@ -184,3 +185,26 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 [33]. Thomson, J. P., Skene, P. J., Selfridge, J., Clouaire, T., Guy, J., Webb, S., … & Turner, D. J. (2010). CpG islands influence chromatin structure via the CpG-binding protein Cfp1. /Nature/, /464/(7291), 1082-1086.
 
 [34]. Clouaire, T., Webb, S., Skene, P., Illingworth, R., Kerr, A., Andrews, R., … & Bird, A. (2012). Cfp1 integrates both CpG content and gene activity for accurate H3K4me3 deposition in embryonic stem cells. /Genes & development/, /26/(15), 1714-1728.
+
+[35]. Erfurth, F. E., Popovic, R., Grembecka, J., Cierpicki, T., Theisler, C., Xia, Z. B., … & Zeleznik-Le, N. J. (2008). MLL protects CpG clusters from methylation within the Hoxa9 gene, maintaining transcript expression. /Proceedings of the National Academy of Sciences/, /105/(21), 7517-7522.
+
+[36]. Otani, J., Nankumo, T., Arita, K., Inamoto, S., Ariyoshi, M., & Shirakawa, M. (2009). Structural basis for recognition of H3K4 methylation status by the DNA methyltransferase 3A ATRX–DNMT3–DNMT3L domain. /EMBO reports/, /10/(11), 1235-1241.
+
+[37]. Ooi, S. K., Qiu, C., Bernstein, E., Li, K., Jia, D., Yang, Z., … & Cheng, X. (2007). DNMT3L connects unmethylated lysine 4 of histone H3 to de novo methylation of DNA. /Nature/, /448/(7154), 714-717.
+
+[38]. Conerly, M. L., Teves, S. S., Diolaiti, D., Ulrich, M., Eisenman, R. N., & Henikoff, S. (2010). Changes in H2A. Z occupancy and DNA methylation during B-cell lymphomagenesis. /Genome research/, /20/(10), 1383-1390.
+
+[39]. Yang, X., Noushmehr, H., Han, H., Andreu-Vieyra, C., Liang, G., & Jones, P. A. (2012). Gene reactivation by 5-Aza-2′-deoxycytidine–induced demethylation requires SRCAP–mediated H2A. Z insertion to establish nucleosome depleted regions. /PLoS Genet/, /8/(3), e1002604.
+
+
+
+
+
+
+
+
+
+
+
+
+
