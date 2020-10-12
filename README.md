@@ -98,7 +98,7 @@ This repository is for literature summary on Epigenetic topics.
 
 3. Tdg *knockout* is embryonic‐*lethal* , and in these knockouts low‐level methylation *accrues* at *CGI promoters* [27, 28], by contrast, *Aicda*- or *Tet1*‐ *knockout* mice develop to term and appear *overtly normal*. 
 
-
+## Reference
 
 [1]. Smith, Z. D., & Meissner, A. (2013). DNA methylation: roles in mammalian development. /Nature Reviews Genetics/, /14/(3), 204-220.
 
