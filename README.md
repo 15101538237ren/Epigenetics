@@ -28,6 +28,10 @@
 
 1. Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively *hypomethylated*. 
 
+![Figure 1] [image:47FBAFD7-EF5C-46A4-B579-A9E073446642-26781-0000872B2BEC8DBD/Fig1a.png]
+
+Figure 1:  from  Fig1a of Smith, Z. D., & Meissner, A at al 2013 [1]
+
 2. *TF binding and even TF binding sequences are sufficient to maintain local hypometh­ylated state, both in CGI promoters or distal enhancers* which requires that DNMTs be actively and continuously excluded, even without measurable transcription [32]. Evidences are:
 
 	* CpG islands can progressively accrue heritable methylation if they are truncated or depleted of known transcription factor binding sites [30, 31].
@@ -175,3 +179,17 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 [33]. Thomson, J. P., Skene, P. J., Selfridge, J., Clouaire, T., Guy, J., Webb, S., … & Turner, D. J. (2010). CpG islands influence chromatin structure via the CpG-binding protein Cfp1. /Nature/, /464/(7291), 1082-1086.
 
 [34]. Clouaire, T., Webb, S., Skene, P., Illingworth, R., Kerr, A., Andrews, R., … & Bird, A. (2012). Cfp1 integrates both CpG content and gene activity for accurate H3K4me3 deposition in embryonic stem cells. /Genes & development/, /26/(15), 1714-1728.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
