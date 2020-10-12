@@ -1,7 +1,3 @@
-# Epigenetics
-
-This repository is for literature summary on Epigenetic topics.
-
 # Literature Review in Epigenetic and Gene Regulation
 
 ## 1. Overview
