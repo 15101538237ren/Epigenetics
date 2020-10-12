@@ -4,7 +4,7 @@ This repository is for literature summary on Epigenetic topics.
 
 # Literature Review in Epigenetic and Gene Regulation
 ## Fundamental questions
-1. 1) How epigenetic modifications are interpreted and inherited and 2) how they influence genomic output before, during or after a cell­-fate transition are fundamental questions to our understanding of development. 
+1. How epigenetic modifications are interpreted and inherited and 2) how they influence genomic output before, during or after a cell­-fate transition are fundamental questions to our understanding of development. 
 
 2. How DNA methylation is globally and locally modulated, and for what purpose, remain compelling questions, as only a few robust and general rules have been formulated. 
 
