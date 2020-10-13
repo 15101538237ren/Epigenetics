@@ -99,11 +99,42 @@ Figure 3. Pericentromeric repeats are predominantly targeted by DNMT3B. At major
 Knockout Experiments:
 -  DNMT3B- ­null cells exhibit hyperacetyla­tion at minor satellite repeats, leading to chromosomal mispairing and lagging anaphase bridges during mitosis [54]. 
 
+#### 5) DNA methylation in Transposable elements
+
+Endogenous transposable ele­ ments constitute nearly 40% of mammalian genomes and consist of three major classes: long interspersed nuclear elements (**LINEs**), short interspersed nuclear elements (**SINEs**) and long terminal repeat (**LTR**)­ containing endogenous retroviruses [56]. 
+
+Full­ length LINE and LTR elements encode strong promoters that must be constitutively repressed to prevent their activity, and generally these regions are constitutively hypermethylated. However, in ESCs, DNMT1 activity alone is often not sufficient to maintain DNA methyla­tion stably at these sites, and DNMT3 enzyme recruit­ment and activity are also required [57].  
+
+* Process and mechanism: 
+
+	1. **LTR** sequences are silenced by **TRIM28**(tripartite-­motif-­containing protein 28) - ­mediated recruitment of the **H3K9 meth­yltransferase SETDB1**.  
+
+	2. The histone methyltransferase activity of SETDB1 acts upstream of DNMT recruit­ment, and DNA methylation appears to function as a secondary stabilizer [58]. 
+
+	3.  Mechanistically, silencing also involves G9A to initiate heterochromatin assembly and DNMT3­like (DNMT3L) to recruit de novo methyl­ transferases [50, 59, 60].
 
 
-#### 5) Intragenic region methylation
+![Figure 4](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig4.png)
+ 
+Figure 4. Repetitive elements such as long terminal repeat (LTR)-containing retroelements and long interspersed nuclear elements (LINEs) are also silenced by DNA methylation, although for LTRs, DNA methylation acts downstream of zinc finger protein (ZFP)-based recruitment of TRIM28 (also known as TIF1β) and the H3K9 methyltransferase SETDB1. **The mechanisms for LINE silencing are less understood**, but these elements exhibit enriched hemimethylation and hydroxymethylation, which may be countered by de novo methyltransferase recruitment and activity.
+
+* Dynamics in development
+
+The components required for de novo repetitive element silencing are largely restricted in their expression to discrete developmental windows, including early embryogenesis (and thus also ESCs). 
+
+In adult tissues, the /de novo/silencing machinery is often not present, and DNA methylation is crucial to direct continued repression by recruiting **MECP2**(methyl­-CpG­-binding protein 2) in complex with histone deacetylases (**HDACs**) [61-65]. 
+
+Developmental windows in which repeat activity is prevalent are restricted to the early embryo and during germline development, particularly during gametogenesis, in which a unique mode of epigenetic regulation involves PIWI­interacting RNAs (Details See BOX2 in Ref [1]). 
+
+#### 6) Intragenic region methylation
 
 1. Those CpG islands that occur at intragenic regions are more frequently methylated during development and may contribute more nuanced regulatory functions [29].
+
+#### 7) Targeting imprints
+
+DNA methylation is the classically assigned instructional modification for germline **ICRs** (imprint control regions), although mounting evidence implicates other epigenetic modifiers in guid­ing DNA methylation to imprinted loci. 
+
+
 
 ### 3.2 DNA methylation maintenance
  
@@ -284,8 +315,25 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 
 [55]. Okada, T., Ohzeki, J. I., Nakano, M., Yoda, K., Brinkley, W. R., Larionov, V., & Masumoto, H. (2007). CENP-B controls centromere formation depending on the chromatin context. /Cell/, /131/(7), 1287-1300.
 
+[56]. Waterston, R. H., Lindblad-Toh, K., Birney, E., Rogers, J., Abril, J. F., Agarwal, P., … & Antonarakis, S. E. (2002). Initial sequencing and comparative analysis of the mouse genome. /Nature/, /420/(6915), 520-562.
 
+[57].  Liang, G., Chan, M. F., Tomigahara, Y., Tsai, Y. C., Gonzales, F. A., Li, E., … & Jones, P. A. (2002). Cooperativity between DNA methyltransferases in the maintenance methylation of repetitive elements. /Molecular and cellular biology/, /22/(2), 480-491.
 
+[58]. Karimi, M. M., Goyal, P., Maksakova, I. A., Bilenky, M., Leung, D., Tang, J. X., … & Lorincz, M. C. (2011). DNA methylation and SETDB1/H3K9me3 regulate predominantly distinct sets of genes, retroelements, and chimeric transcripts in mESCs. /Cell stem cell/, /8/(6), 676-687.
+
+[59]. Leung, D. C., Dong, K. B., Maksakova, I. A., Goyal, P., Appanah, R., Lee, S., … & Rossi, F. (2011). Lysine methyltransferase G9a is required for de novo DNA methylation and the establishment, but not the maintenance, of proviral silencing. /Proceedings of the National Academy of Sciences/, /108/(14), 5718-5723.
+
+[60]. Ooi, S. K., Wolf, D., Hartung, O., Agarwal, S., Daley, G. Q., Goff, S. P., & Bestor, T. H. (2010). Dynamic instability of genomic methylation patterns in pluripotent stem cells. /Epigenetics & chromatin/, /3/(1), 17.
+
+[61]. Muotri, A. R., Marchetto, M. C., Coufal, N. G., Oefner, R., Yeo, G., Nakashima, K., & Gage, F. H. (2010). L1 retrotransposition in neurons is modulated by MeCP2. /Nature/, /468/(7322), 443-446.
+
+[62]. Jones, P. L., Veenstra, G. C. J., Wade, P. A., Vermaak, D., Kass, S. U., Landsberger, N., … & Wolffe, A. P. (1998). Methylated DNA and MeCP2 recruit histone deacetylase to repress transcription. /Nature genetics/, /19/(2), 187-191.
+
+[63]. Nan, X., Ng, H. H., Johnson, C. A., Laherty, C. D., Turner, B. M., Eisenman, R. N., & Bird, A. (1998). Transcriptional repression by the methyl-CpG-binding protein MeCP2 involves a histone deacetylase complex. /Nature/, /393/(6683), 386-389.
+
+[64]. Jähner, D., Stuhlmann, H., Stewart, C. L., Harbers, K., Löhler, J., Simon, I., & Jaenisch, R. (1982). De novo methylation and expression of retroviral genomes during mouse embryogenesis. /Nature/, /298/(5875), 623-628.
+
+[65]. Stewart, C. L., Stuhlmann, H., Jähner, D., & Jaenisch, R. (1982). De novo methylation, expression, and infectivity of retroviral genomes introduced into embryonal carcinoma cells. /Proceedings of the National Academy of Sciences/, /79/(13), 4098-4102.
 
 
 
