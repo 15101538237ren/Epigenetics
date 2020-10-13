@@ -17,6 +17,8 @@
 
 4. Mammalian genomes are globally CpG­ depleted and, of the roughly **28 million CpGs in the human genome**, **60–80% are generally methylated**. **Less than 10% of CpGs occur in CG­ dense** regions that are termed **CpG islands**; These are **prevalent** at transcription start sites(TSS) of **housekeeping** and **developmental** regulator genes, where they are largely resistant to DNA methylation[7]. 
 
+5. DNA methylation has important roles in the maintenance of **Pericentromeric repeats, and Transposable elements** genomic components that may reflect its most conserved function across species. (Figure 3, 4)
+
 ### 3.1 Region Specific DNA Methylation
 
 #### 1) Unmethylated non-promoter CpG Island
@@ -27,6 +29,7 @@
 #### 2) Promoter unmethylation
 
 Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**. 
+
 
 ![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
 
@@ -60,6 +63,7 @@ Figure 1:  **Most transcription start site (TSS)-associated CpG islands are prot
 
 #### 3) De novo methylation at repressed promoters
 
+
 ![Figure 2](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig2.png)
  
 Figure 2. Stable silencing of promoter regions requires recruitment of repressive transcription factors, which direct the recruitment 
@@ -70,17 +74,34 @@ Repressed promoters, particularly those of lower CpG density, acquire DNA methyl
 
 * Targeting: TFs such as RAR(retinoic­acid­response nuclear recep­tors) in the context of embryonic stem cell (ESC) differentiation often participate in proper targeting [44]. 
 
-
 * Participants: 1) Both  **DNMT3A** and **DNMT3B** target promoters in complex with other **epigenetic repressors**, including 2) histone deacetylases (**HDACs**), 3) methyltransferases associ­ated with repressive **H3K9** methylation (H3K9 dimethyltrans­ferase **G9A**) and also with **nucleosome remodeller** (LSH, ) for heterochromatin assembly through interactions with epigenetic repressors.  
 
 * The nucleosome remodeling may provide nucleosomes in previously depleted regions to act as a **template** for epigenetic silencing [45, 46, 47]. 
 
 - LSH is co­recruited with the H3K9 dimethyltrans­ferase G9A (also known as EHMT2) in complex with DNMT3A or DNMT3B [48, 49]. The catalytic activity of G9A stabilizes and accelerates repression, but its bind­ ing activity is often sufficient for DNA methylation [49, 50]. 
 
+#### 4)  Pericentromeric repeats silencing
+
+Most of the sequence in mammalian genomes is non­coding but includes many features with latent transcriptional potential, includ­ing **pericentromeric repeats** (which **instruct centro­meric assembly**) and **parasitic repetitive elements**. 
+
+Pericentromeric minor and major satellite ele­ments extend from the centromere in thousands to tens of thousands of tandem copies [52]. These elements have latent transcriptional potential, the repression of which is essential for proper chromosome alignment, segregation and integrity during mitosis. 
+
+* **SUV39H1** deposits H3K9 methylation, directs **DNMT3B** to major satellites and is sufficient for silencing at these regions [52, 53]. 
+
+-  **DNMT3B** is directly recruited by CENPC (Centromere protein C; also known as CENPC1) and functions down­ stream of pericentromeric nucleosome assembly, which is instructed by CENPB [55].  **DNMT3B** can be retained at these regions through **metaphase**, which suggests a con­tinued requirement for silencing throughout **mitosis** [54].  These data highlight a crucial, specific role for **DNMT3B recruitment** in maintaining **centromeric** proximal **heterochromatin** to facilitate proper **cell division**. 
+
+
+![Figure 3](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig3.png)
+ 
+Figure 3. Pericentromeric repeats are predominantly targeted by DNMT3B. At major satellites, DNMT3B is secondary to the activity of H3K9 methyltransferases SUV39H1 and SUV39H2 (shown as SUV39H). DNMT3B may be more immediately involved in minor satellite silencing by directly interacting with the centromeric nucleosome. 
+
+
+Knockout Experiments:
+-  DNMT3B- ­null cells exhibit hyperacetyla­tion at minor satellite repeats, leading to chromosomal mispairing and lagging anaphase bridges during mitosis [54]. 
 
 
 
-#### 4) Intragenic region methylation
+#### 5) Intragenic region methylation
 
 1. Those CpG islands that occur at intragenic regions are more frequently methylated during development and may contribute more nuanced regulatory functions [29].
 
@@ -254,3 +275,26 @@ The TET family of dioxygenases catalyses the oxidation of methylcytosine to hydr
 [50]. Dong, K. B., Maksakova, I. A., Mohn, F., Leung, D., Appanah, R., Lee, S., … & Tachibana, M. (2008). DNA methylation in ES cells requires the lysine methyltransferase G9a but not its catalytic activity. /The EMBO journal/, /27/(20), 2691-2701.
 
 [51]. Ayyanathan, K., Lechner, M. S., Bell, P., Maul, G. G., Schultz, D. C., Yamada, Y., … & Rauscher, F. J. (2003). Regulated recruitment of HP1 to a euchromatic gene induces mitotically heritable, epigenetic gene silencing: a mammalian cell culture model of gene variegation. /Genes & development/, /17/(15), 1855-1869.
+
+[52]. Lehnertz, B., Ueda, Y., Derijck, A. A., Braunschweig, U., Perez-Burgos, L., Kubicek, S., … & Peters, A. H. (2003). Suv39h-mediated histone H3 lysine 9 methylation directs DNA methylation to major satellite repeats at pericentric heterochromatin. /Current Biology/, /13/(14), 1192-1200.
+
+[53]. Chen, T., Tsujimoto, N., & Li, E. (2004). The PWWP domain of Dnmt3a and Dnmt3b is required for directing DNA methylation to the major satellite repeats at pericentric heterochromatin. /Molecular and cellular biology/, /24/(20), 9048-9058.
+
+[54]. Gopalakrishnan, S., Sullivan, B. A., Trazzi, S., Della Valle, G., & Robertson, K. D. (2009). DNMT3B interacts with constitutive centromere protein CENP-C to modulate DNA methylation and the histone code at centromeric regions. /Human molecular genetics/, /18/(17), 3178-3193.
+
+[55]. Okada, T., Ohzeki, J. I., Nakano, M., Yoda, K., Brinkley, W. R., Larionov, V., & Masumoto, H. (2007). CENP-B controls centromere formation depending on the chromatin context. /Cell/, /131/(7), 1287-1300.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
