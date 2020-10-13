@@ -1,4 +1,4 @@
-# Literature Review in Epigenetic and Gene Regulation
+# Literature Review in Epigenetics and Gene Regulation
 
 Hello, this repo aims to summarize all the current knowledge about **Epigenetics and Gene Regulation**, also any topics of **Epigenetics in contexts of development, aging and cancer**. 
 
