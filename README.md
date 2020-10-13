@@ -7,7 +7,6 @@ If you are interested to contribute, please contact hongleir@uci.edu, we are loo
 Table of Contents
 =================
 
-* [Literature Review in Epigenetic and Gene Regulation](#literature-review-in-epigenetic-and-gene-regulation)
   * [1. Overview](#1-overview)
   * [2. Fundamental questions](#2-fundamental-questions)
   * [3. DNA methylation](#3-dna-methylation)
