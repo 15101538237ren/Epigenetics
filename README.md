@@ -111,7 +111,7 @@ The major epigenetic signals include DNA methylation and demethylation, covalent
 
 ### DNA methylation
 
-DNA methylation was first discovered in calf thymus DNA by Hotchkiss, in 1948[96]. It is a heritable epigenetic mark involving the covalent transfer of a methyl group to the C-5 position of the cytosine ring of DNA by DNA methyltransferases 1 (DNMTs) [91]. In prokaryotes, DNA methylation takes place on both cytosine and adenine bases and constitutes a branch of the host restriction system to distinguish self and non-self DNA. However in multicellular eukaryotes this modification is limited to cytosine bases only and acts mainly as a repressive tag resulting in silent chromatin state and tran- scriptional repression [97, 98]. In mammals, DNA methylation occurs at cytosines in any context of the genome. In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95]. However, more than 98% of DNA methylation occurs in a CpG dinucleotide context in somatic cells, while as much as a quarter of all methylation appears in a non-CpG context in embryonic stem cells (ESCs) [95]. 
+DNA methylation was first discovered in calf thymus DNA by Hotchkiss, in 1948 [96]. It is a heritable epigenetic mark involving the covalent transfer of a methyl group to the C-5 position of the cytosine ring of DNA by DNA methyltransferases 1 (DNMTs) [91]. In prokaryotes, DNA methylation takes place on both cytosine and adenine bases and constitutes a branch of the host restriction system to distinguish self and non-self DNA. However in multicellular eukaryotes this modification is limited to cytosine bases only and acts mainly as a repressive tag resulting in silent chromatin state and transcriptional repression [97, 98]. In mammals, DNA methylation occurs at cytosines in any context of the genome. In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95]. However, more than 98% of DNA methylation occurs in a CpG dinucleotide context in somatic cells, while as much as a quarter of all methylation appears in a non-CpG context in embryonic stem cells (ESCs) [95]. 
 
 Most DNA methylation is essential for normal development, and it plays a very important role in a number of key processes including genomic imprinting, X-chromosome inactivation, and suppression of repetitive element transcription and transposition and, when dysregulated, contributes to diseases like cancer [91, 92, 93, 94]. It is considered to be one of the first steps in epigenetic regulation, acting as a fundamental mechanism in functional organization of the human genome. It is also an attractive and promising target in the development of new drugs for cancer chemotherapy as epigenetic alterations are, in principle, more readily reversible than genetic anomalies [88].
 
@@ -126,6 +126,8 @@ Most DNA methylation is essential for normal development, and it plays a very im
 
 ### Mechanisms of DNA Methylation
 
+Methylation of DNA is a post synthetic process catalyzed by a family of dedicated enzymes known as DNA by DNMTs(DNA methyltransferases). DNMT1, DNMT3A and DNMT3B methylate the cytosine residue in the presence of cofactor SAM (S-Adenosyl methionine), which donates the –CH3 group and is converted to SAH (S-Adenosyl homocysteine) [86, 101].
+
 ### Mechanisms of Histone Modification
 
 ### Mechanisms of Nucleosome positioning
@@ -136,7 +138,19 @@ Most DNA methylation is essential for normal development, and it plays a very im
 
 ### Crosstalk between Genomics, Epigenetics and Environmental Cues
 
+## Gene Regulation of Epigenetics
 
+### DNA Methylation
+
+DNA methylation obstructs transcriptional activity via two general schemes. First, methylated cytosine bases can hinder the interaction of transcriptional factors and RNA polymerase II with their cognate DNA recognition sequences. Second, methyl-CpG-binding proteins, such as MBD (methyl-CpG-binding domain) proteins, associate with methylated DNA and result in heterochromatin formation by recruiting HDACs (histone deacetylases) [98, 102].
+
+### Histone Modification
+
+### Nucleosome positioning
+
+### Non-coding RNA
+
+### 3D chromatin structure
 
 ## Genomic Landscape of Epigenetics in Somatic Cells
 
@@ -191,6 +205,8 @@ The epigenetic landscape can vary across genomic regions (spatial heterogeneity)
 ### Epigenetics, Stem Cells and Cellular Differentiation
 
 ### Dynamics of Epigenetics in Development
+
+The genomic methylation blueprint is created during two developmental periods—in germ cells and pre-implantation embryos—generating cells with broad developmental potential [99, 100]. This system of establishing de novo methylation pattern where new methyl marks are added to previously unmethylated cytosines is mainly chaperoned by the de novo methyltransferases DNMT3A and DNMT3B. Maintenance methylation by DNMT1 then ensures that hemi-methylated daughter strands in somatic differentiated cells get methylated to faithfully propagate the proper DNA methylation patterns across successive cell generations [100].
 
 ### Regeneration Epigenetics
 
@@ -512,9 +528,12 @@ In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetri
 
 [98]. Klose, R. J., & Bird, A. P. (2006). Genomic DNA methylation: the mark and its mediators. Trends in biochemical sciences, 31(2), 89-97.
 
+[99]. Jones, P. A., & Liang, G. (2009). Rethinking how DNA methylation patterns are maintained. Nature Reviews Genetics, 10(11), 805-811.
 
+[100]. Denis, H., Ndlovu, M. N., & Fuks, F. (2011). Regulation of mammalian DNA methyltransferases: a route to new mechanisms. EMBO reports, 12(7), 647-656.
 
+[101]. Lan, J., Hua, S., He, X., & Zhang, Y. (2010). DNA methyltransferases and methyl-binding proteins of mammals. Acta Biochim Biophys Sin, 42(4), 243-252.
 
-
+[102]. Buryanov, Y. I., & Shevchuk, T. V. (2005). DNA methyltransferases and structural-functional specificity of eukaryotic DNA modification. Biochemistry (Moscow), 70(7), 730-742.
 
 
