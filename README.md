@@ -96,15 +96,24 @@ Table of Contents
          * [Adaptive Evolution and Epigenetics](#adaptive-evolution-and-epigenetics)
       * [The Future of Epigenetics](#the-future-of-epigenetics)
          * [New Directions for Epigenetic Research](#new-directions-for-epigenetic-research)
+      * [Reference](#Reference)
 
 
 ## Introduction
 
-## Epigeneitics
+## Epigenetics
+
+The genetic message is differentially decoded in both time and space as a result of epigenetic constraints on the genome resulting either in gene activation or silencing[85]. The machinery behind this cell-specific differential gene expression mainly involves *Epigenetics*, which literally means *outside conventional genetics*, refers to the heritable epigenetic modifications and regulations that function without changing the DNA sequence [86, 87]. 
+
+The major epigenetic signals include DNA methylation and demethylation, covalent post- translational reversible modifications of the histone proteins, such as acetylation, methylation, phosphorylation and ubiquitination, incorporation of histone variants and gene regulation by non-coding RNAs [88].
 
 ### Histone modification
 
 ### DNA methylation
+
+DNA methylation was first discovered in calf thymus DNA by Hotchkiss, in 1948[96]. It is a heritable epigenetic mark involving the covalent transfer of a methyl group to the C-5 position of the cytosine ring of DNA by DNA methyltransferases 1 (DNMTs) [91]. In prokaryotes, DNA methylation takes place on both cytosine and adenine bases and constitutes a branch of the host restriction system to distinguish self and non-self DNA. However in multicellular eukaryotes this modification is limited to cytosine bases only and acts mainly as a repressive tag resulting in silent chromatin state and tran- scriptional repression [97, 98]. In mammals, DNA methylation occurs at cytosines in any context of the genome. In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95]. However, more than 98% of DNA methylation occurs in a CpG dinucleotide context in somatic cells, while as much as a quarter of all methylation appears in a non-CpG context in embryonic stem cells (ESCs) [95]. 
+
+Most DNA methylation is essential for normal development, and it plays a very important role in a number of key processes including genomic imprinting, X-chromosome inactivation, and suppression of repetitive element transcription and transposition and, when dysregulated, contributes to diseases like cancer [91, 92, 93, 94]. It is considered to be one of the first steps in epigenetic regulation, acting as a fundamental mechanism in functional organization of the human genome. It is also an attractive and promising target in the development of new drugs for cancer chemotherapy as epigenetic alterations are, in principle, more readily reversible than genetic anomalies [88].
 
 ### Nucleosome positioning
 
@@ -130,6 +139,8 @@ Table of Contents
 
 
 ## Genomic Landscape of Epigenetics in Somatic Cells
+
+The epigenetic landscape can vary across genomic regions (spatial heterogeneity), vary within and across cell cycle(temporal heterogeneity), and across cells (cell-to-cell heterogeneity). It grown increasingly complicated, encompassing DNA methylation, the histone code, non-coding RNA, and nucleosome positioning, along with DNA sequence [89]. 
 
 ### Landscape in Promoter
 
@@ -202,6 +213,9 @@ Table of Contents
 
 ### Plant Epigenetics
 
+#### Plant DNA methylation
+
+In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95].
 
 
 ## Epigenetics and Human Disease
@@ -299,5 +313,208 @@ Table of Contents
 ## The Future of Epigenetics
 
 ### New Directions for Epigenetic Research
+
+## Reference
+
+[1]. Smith, Z. D., & Meissner, A. (2013). DNA methylation: roles in mammalian development. *Nature Reviews Genetics*, *14*(3), 204-220.
+
+[2]. Feng, S., Jacobsen, S. E., & Reik, W. (2010). Epigenetic reprogramming in plant and animal development. *Science*, *330*(6004), 622-627.
+
+[3]. Ziller, M. J., Müller, F., Liao, J., Zhang, Y., Gu, H., Bock, C., … & Gnirke, A. (2011). Genomic distribution and inter-sample variation of non-CpG methylation across human cell types. *PLoS Genet*, *7*(12), e1002389.
+
+[4]. Ramsahoye, B. H., Biniszkiewicz, D., Lyko, F., Clark, V., Bird, A. P., & Jaenisch, R. (2000). Non-CpG methylation is prevalent in embryonic stem cells and may be mediated by DNA methyltransferase 3a. *Proceedings of the National Academy of Sciences*, *97*(10), 5237-5242.
+
+[5]. Okano, M., Bell, D. W., Haber, D. A., & Li, E. (1999). DNA methyltransferases Dnmt3a and Dnmt3b are essential for de novo methylation and mammalian development. *Cell*, *99*(3), 247-257.
+
+[6]. Li, E., Bestor, T. H., & Jaenisch, R. (1992). Targeted mutation of the DNA methyltransferase gene results in embryonic lethality. *Cell*, *69*(6), 915-926.
+
+[7]. Deaton, A. M., & Bird, A. (2011). CpG islands and the regulation of transcription. *Genes & development*, *25*(10), 1010-1022.
+
+[8]. Kishikawa, S., Murata, T., Ugai, H., Yamazaki, T., & Yokoyama, K. K. (2003, September). Control elements of Dnmt1 gene are regulated in cell-cycle dependent manner. In *Nucleic acids symposium series* (Vol. 3, No. 1, pp. 307-308). Oxford University Press.
+
+[9]. Chuang, L. S. H., Ian, H. I., Koh, T. W., Ng, H. H., Xu, G., & Li, B. F. (1997). Human DNA-(cytosine-5) methyltransferase-PCNA complex as a target for p21WAF1. *Science*, *277*(5334), 1996-2000.
+
+[10]. Sharif, J., Muto, M., Takebayashi, S. I., Suetake, I., Iwamatsu, A., Endo, T. A., … & Tajima, S. (2007). The SRA protein Np95 mediates epigenetic inheritance by recruiting Dnmt1 to methylated DNA. *Nature*, *450*(7171), 908-912.
+
+[11]. Bostick, M., Kim, J. K., Estève, P. O., Clark, A., Pradhan, S., & Jacobsen, S. E. (2007). UHRF1 plays a role in maintaining DNA methylation in mammalian cells. *Science*, *317*(5845), 1760-1764.
+
+[12]. Arita, K., Ariyoshi, M., Tochio, H., Nakamura, Y., & Shirakawa, M. (2008). Recognition of hemi-methylated DNA by the SRA protein UHRF1 by a base-flipping mechanism. *Nature*, *455*(7214), 818-821.
+
+[13]. Avvakumov, G. V., Walker, J. R., Xue, S., Li, Y., Duan, S., Bronner, C., … & Dhe-Paganon, S. (2008). Structural basis for recognition of hemi-methylated DNA by the SRA domain of human UHRF1. *Nature*, *455*(7214), 822-825.
+
+[14]. Moldovan, G. L., Pfander, B., & Jentsch, S. (2007). PCNA, the maestro of the replication fork. *Cell*, *129*(4), 665-679.
+
+[15]. Du, Z., Song, J., Wang, Y., Zhao, Y., Guda, K., Yang, S., … & Sedwick, D. (2010). DNMT1 stability is regulated by proteins coordinating deubiquitination and acetylation-driven ubiquitination. *Science signaling*, *3*(146), ra80-ra80.
+
+[16]. Estève, P. O., Chin, H. G., Benner, J., Feehery, G. R., Samaranayake, M., Horwitz, G. A., … & Pradhan, S. (2009). Regulation of DNMT1 stability through SET7-mediated lysine methylation in mammalian cells. *Proceedings of the National Academy of Sciences*, *106*(13), 5076-5081.
+
+[17]. Wang, J., Hevi, S., Kurash, J. K., Lei, H., Gay, F., Bajko, J., … & Gaudet, F. (2009). The lysine demethylase LSD1 (KDM1) is required for maintenance of global DNA methylation. *Nature genetics*, *41*(1), 125-129.
+
+[18]. Fuks, F., Burgers, W. A., Brehm, A., Hughes-Davies, L., & Kouzarides, T. (2000). DNA methyltransferase Dnmt1 associates with histone deacetylase activity. *Nature genetics*, *24*(1), 88-91.
+
+[19]. Rothbart, S. B., Krajewski, K., Nady, N., Tempel, W., Xue, S., Badeaux, A. I., … & Arrowsmith, C. H. (2012). Association of UHRF1 with methylated H3K9 directs the maintenance of DNA methylation. *Nature structural & molecular biology*, *19*(11), 1155.
+
+[20]. Meissner, A., Mikkelsen, T. S., Gu, H., Wernig, M., Hanna, J., Sivachenko, A., … & Gnirke, A. (2008). Genome-scale DNA methylation maps of pluripotent and differentiated cells. *Nature*, *454*(7205), 766-770.
+
+[21]. Lorincz, M. C., Schübeler, D., Hutchinson, S. R., Dickerson, D. R., & Groudine, M. (2002). DNA methylation density influences the stability of an epigenetic imprint and Dnmt3a*b-independent de novo methylation. *Molecular and cellular biology*, *22*(21), 7572-7580.
+
+[22]. Tahiliani, M., Koh, K. P., Shen, Y., Pastor, W. A., Bandukwala, H., Brudno, Y., … & Rao, A. (2009). Conversion of 5-methylcytosine to 5-hydroxymethylcytosine in mammalian DNA by MLL partner TET1. *Science*, *324*(5929), 930-935.
+
+[23]. Ito, S., D’Alessio, A. C., Taranova, O. V., Hong, K., Sowers, L. C., & Zhang, Y. (2010). Role of Tet proteins in 5mC to 5hmC conversion, ES-cell self-renewal and inner cell mass specification. *Nature*, *466*(7310), 1129-1133.
+
+[24]. Williams, K., Christensen, J., Pedersen, M. T., Johansen, J. V., Cloos, P. A., Rappsilber, J., & Helin, K. (2011). TET1 and hydroxymethylcytosine in transcription and DNA methylation fidelity. *Nature*, *473*(7347), 343-348.
+
+[25]. Wu, H., D’Alessio, A. C., Ito, S., Xia, K., Wang, Z., Cui, K., … & Zhang, Y. (2011). Dual functions of Tet1 in transcriptional regulation in mouse embryonic stem cells. *Nature*, *473*(7347), 389-393.
+
+[26]. Stadler, M. B., Murr, R., Burger, L., Ivanek, R., Lienert, F., Schöler, A., … & Tiwari, V. K. (2011). DNA-binding factors shape the mouse methylome at distal regulatory regions. *Nature*, *480*(7378), 490-495.
+
+[27]. Cortellino, S., Xu, J., Sannai, M., Moore, R., Caretti, E., Cigliano, A., … & Abramowitz, L. K. (2011). Thymine DNA glycosylase is essential for active DNA demethylation by linked deamination-base excision repair. *Cell*, *146*(1), 67-79.
+
+[28]. Cortázar, D., Kunz, C., Selfridge, J., Lettieri, T., Saito, Y., MacDougall, E., … & Steinacher, R. (2011). Embryonic lethal phenotype reveals a function of TDG in maintaining epigenetic stability. *Nature*, *470*(7334), 419-423.
+
+[29]. Illingworth, R. S., Gruenewald-Schneider, U., Webb, S., Kerr, A. R., James, K. D., Turner, D. J., … & Bird, A. P. (2010). Orphan CpG islands identify numerous conserved promoters in the mammalian genome. *PLoS Genet*, *6*(9), e1001134.
+
+[30]. Macleod, D., Charlton, J., Mullins, J., & Bird, A. P. (1994). Sp1 sites in the mouse aprt gene promoter are required to prevent methylation of the CpG island. *Genes & development*, *8*(19), 2282-2292.
+
+[31]. Brandeis, M., Frank, D., Keshet, I., Siegfried, Z., Mendelsohn, M., Temper, V., … & Cedar, H. (1994). Spl elements protect a CpG island from de novo methylation. *Nature*, *371*(6496), 435-438.
+
+[32]. Lienert, F., Wirbelauer, C., Som, I., Dean, A., Mohn, F., & Schübeler, D. (2011). Identification of genetic elements that autonomously determine DNA methylation states. *Nature genetics*, *43*(11), 1091-1097.
+
+[33]. Thomson, J. P., Skene, P. J., Selfridge, J., Clouaire, T., Guy, J., Webb, S., … & Turner, D. J. (2010). CpG islands influence chromatin structure via the CpG-binding protein Cfp1. *Nature*, *464*(7291), 1082-1086.
+
+[34]. Clouaire, T., Webb, S., Skene, P., Illingworth, R., Kerr, A., Andrews, R., … & Bird, A. (2012). Cfp1 integrates both CpG content and gene activity for accurate H3K4me3 deposition in embryonic stem cells. *Genes & development*, *26*(15), 1714-1728.
+
+[35]. Erfurth, F. E., Popovic, R., Grembecka, J., Cierpicki, T., Theisler, C., Xia, Z. B., … & Zeleznik-Le, N. J. (2008). MLL protects CpG clusters from methylation within the Hoxa9 gene, maintaining transcript expression. *Proceedings of the National Academy of Sciences*, *105*(21), 7517-7522.
+
+[36]. Otani, J., Nankumo, T., Arita, K., Inamoto, S., Ariyoshi, M., & Shirakawa, M. (2009). Structural basis for recognition of H3K4 methylation status by the DNA methyltransferase 3A ATRX–DNMT3–DNMT3L domain. *EMBO reports*, *10*(11), 1235-1241.
+
+[37]. Ooi, S. K., Qiu, C., Bernstein, E., Li, K., Jia, D., Yang, Z., … & Cheng, X. (2007). DNMT3L connects unmethylated lysine 4 of histone H3 to de novo methylation of DNA. *Nature*, *448*(7154), 714-717.
+
+[38]. Conerly, M. L., Teves, S. S., Diolaiti, D., Ulrich, M., Eisenman, R. N., & Henikoff, S. (2010). Changes in H2A. Z occupancy and DNA methylation during B-cell lymphomagenesis. *Genome research*, *20*(10), 1383-1390.
+
+[39]. Yang, X., Noushmehr, H., Han, H., Andreu-Vieyra, C., Liang, G., & Jones, P. A. (2012). Gene reactivation by 5-Aza-2′-deoxycytidine–induced demethylation requires SRCAP–mediated H2A. Z insertion to establish nucleosome depleted regions. *PLoS Genet*, *8*(3), e1002604.
+
+[40]. Brinkman, A. B., Gu, H., Bartels, S. J., Zhang, Y., Matarese, F., Simmer, F., … & Stunnenberg, H. G. (2012). Sequential ChIP-bisulfite sequencing enables direct genome-scale investigation of chromatin and DNA methylation cross-talk. *Genome research*, *22*(6), 1128-1138.
+
+[41]. Bartke, T., Vermeulen, M., Xhemalce, B., Robson, S. C., Mann, M., & Kouzarides, T. (2010). Nucleosome-interacting proteins regulated by DNA and histone methylation. *Cell*, *143*(3), 470-484.
+
+[42]. Jones, P. A. (2012). Functions of DNA methylation: islands, start sites, gene bodies and beyond. *Nature Reviews Genetics*, *13*(7), 484-492.
+
+[43]. Ginno, P. A., Lott, P. L., Christensen, H. C., Korf, I., & Chédin, F. (2012). R-loop formation is a distinctive characteristic of unmethylated human CpG island promoters. *Molecular cell*, *45*(6), 814-825.
+
+[44]. Schoorlemmer, J., Van Puijenbroek, A., van Den Eijnden, M. M. E. D., Jonk, L., Pals, C., & Kruijer, W. (1994). Characterization of a negative retinoic acid response element in the murine Oct4 promoter. *Molecular and cellular biology*, *14*(2), 1122-1136.
+
+[45]. Dennis, K., Fan, T., Geiman, T., Yan, Q., & Muegge, K. (2001). Lsh, a member of the SNF2 family, is required for genome-wide methylation. *Genes & development*, *15*(22), 2940-2944.
+
+[46]. Zhu, H., Geiman, T. M., Xi, S., Jiang, Q., Schmidtmann, A., Chen, T., … & Muegge, K. (2006). Lsh is involved in de novo methylation of DNA. *The EMBO journal*, *25*(2), 335-345.
+
+[47]. Myant, K., & Stancheva, I. (2008). LSH cooperates with DNA methyltransferases to repress transcription. *Molecular and cellular biology*, *28*(1), 215-226.
+
+[48]. Myant, K., Termanis, A., Sundaram, A. Y., Boe, T., Li, C., Merusi, C., … & Stancheva, I. (2011). LSH and G9a*GLP complex are required for developmentally programmed DNA methylation. *Genome research*, *21*(1), 83-94.
+
+[49]. Epsztejn-Litman, S., Feldman, N., Abu-Remaileh, M., Shufaro, Y., Gerson, A., Ueda, J., … & Bergman, Y. (2008). De novo DNA methylation promoted by G9a prevents reprogramming of embryonically silenced genes. *Nature structural & molecular biology*, *15*(11), 1176-1183.
+
+[50]. Dong, K. B., Maksakova, I. A., Mohn, F., Leung, D., Appanah, R., Lee, S., … & Tachibana, M. (2008). DNA methylation in ES cells requires the lysine methyltransferase G9a but not its catalytic activity. *The EMBO journal*, *27*(20), 2691-2701.
+
+[51]. Ayyanathan, K., Lechner, M. S., Bell, P., Maul, G. G., Schultz, D. C., Yamada, Y., … & Rauscher, F. J. (2003). Regulated recruitment of HP1 to a euchromatic gene induces mitotically heritable, epigenetic gene silencing: a mammalian cell culture model of gene variegation. *Genes & development*, *17*(15), 1855-1869.
+
+[52]. Lehnertz, B., Ueda, Y., Derijck, A. A., Braunschweig, U., Perez-Burgos, L., Kubicek, S., … & Peters, A. H. (2003). Suv39h-mediated histone H3 lysine 9 methylation directs DNA methylation to major satellite repeats at pericentric heterochromatin. *Current Biology*, *13*(14), 1192-1200.
+
+[53]. Chen, T., Tsujimoto, N., & Li, E. (2004). The PWWP domain of Dnmt3a and Dnmt3b is required for directing DNA methylation to the major satellite repeats at pericentric heterochromatin. *Molecular and cellular biology*, *24*(20), 9048-9058.
+
+[54]. Gopalakrishnan, S., Sullivan, B. A., Trazzi, S., Della Valle, G., & Robertson, K. D. (2009). DNMT3B interacts with constitutive centromere protein CENP-C to modulate DNA methylation and the histone code at centromeric regions. *Human molecular genetics*, *18*(17), 3178-3193.
+
+[55]. Okada, T., Ohzeki, J. I., Nakano, M., Yoda, K., Brinkley, W. R., Larionov, V., & Masumoto, H. (2007). CENP-B controls centromere formation depending on the chromatin context. *Cell*, *131*(7), 1287-1300.
+
+[56]. Waterston, R. H., Lindblad-Toh, K., Birney, E., Rogers, J., Abril, J. F., Agarwal, P., … & Antonarakis, S. E. (2002). Initial sequencing and comparative analysis of the mouse genome. *Nature*, *420*(6915), 520-562.
+
+[57].  Liang, G., Chan, M. F., Tomigahara, Y., Tsai, Y. C., Gonzales, F. A., Li, E., … & Jones, P. A. (2002). Cooperativity between DNA methyltransferases in the maintenance methylation of repetitive elements. *Molecular and cellular biology*, *22*(2), 480-491.
+
+[58]. Karimi, M. M., Goyal, P., Maksakova, I. A., Bilenky, M., Leung, D., Tang, J. X., … & Lorincz, M. C. (2011). DNA methylation and SETDB1*H3K9me3 regulate predominantly distinct sets of genes, retroelements, and chimeric transcripts in mESCs. *Cell stem cell*, *8*(6), 676-687.
+
+[59]. Leung, D. C., Dong, K. B., Maksakova, I. A., Goyal, P., Appanah, R., Lee, S., … & Rossi, F. (2011). Lysine methyltransferase G9a is required for de novo DNA methylation and the establishment, but not the maintenance, of proviral silencing. *Proceedings of the National Academy of Sciences*, *108*(14), 5718-5723.
+
+[60]. Ooi, S. K., Wolf, D., Hartung, O., Agarwal, S., Daley, G. Q., Goff, S. P., & Bestor, T. H. (2010). Dynamic instability of genomic methylation patterns in pluripotent stem cells. *Epigenetics & chromatin*, *3*(1), 17.
+
+[61]. Muotri, A. R., Marchetto, M. C., Coufal, N. G., Oefner, R., Yeo, G., Nakashima, K., & Gage, F. H. (2010). L1 retrotransposition in neurons is modulated by MeCP2. *Nature*, *468*(7322), 443-446.
+
+[62]. Jones, P. L., Veenstra, G. C. J., Wade, P. A., Vermaak, D., Kass, S. U., Landsberger, N., … & Wolffe, A. P. (1998). Methylated DNA and MeCP2 recruit histone deacetylase to repress transcription. *Nature genetics*, *19*(2), 187-191.
+
+[63]. Nan, X., Ng, H. H., Johnson, C. A., Laherty, C. D., Turner, B. M., Eisenman, R. N., & Bird, A. (1998). Transcriptional repression by the methyl-CpG-binding protein MeCP2 involves a histone deacetylase complex. *Nature*, *393*(6683), 386-389.
+
+[64]. Jähner, D., Stuhlmann, H., Stewart, C. L., Harbers, K., Löhler, J., Simon, I., & Jaenisch, R. (1982). De novo methylation and expression of retroviral genomes during mouse embryogenesis. *Nature*, *298*(5875), 623-628.
+
+[65]. Stewart, C. L., Stuhlmann, H., Jähner, D., & Jaenisch, R. (1982). De novo methylation, expression, and infectivity of retroviral genomes introduced into embryonal carcinoma cells. *Proceedings of the National Academy of Sciences*, *79*(13), 4098-4102.
+
+[66]. Rottach, A., Frauer, C., Pichler, G., Bonapace, I. M., Spada, F., & Leonhardt, H. (2010). The multi-domain protein Np95 connects DNA methylation and histone modification. *Nucleic acids research*, *38*(6), 1796-1804.
+
+[67]. van de Lagemaat, L. N., Flenley, M., Lynch, M. D., Garrick, D., Tomlinson, S. R., Kranc, K. R., & Vernimmen, D. (2018). CpG binding protein (CFP1) occupies open chromatin regions of active genes, including enhancers and non-CpG islands. *Epigenetics & chromatin*, *11*(1), 59.
+
+[68]. Adam, S., Anteneh, H., Hornisch, M., Wagner, V., Lu, J., Radde, N. E., … & Jeltsch, A. (2020). DNA sequence-dependent activity and base flipping mechanisms of DNMT1 regulate genome-wide DNA methylation. *Nature communications*, *11*(1), 1-15.
+
+[69]. Pradhan, S., Bacolla, A., Wells, R. D., & Roberts, R. J. (1999). Recombinant human DNA (cytosine-5) methyltransferase I. Expression, purification, and comparison of de novo and maintenance methylation. *Journal of Biological Chemistry*, *274*(46), 33002-33010.
+
+[70]. Fatemi, M., Hermann, A., Pradhan, S., & Jeltsch, A. (2001). The activity of the murine DNA methyltransferase Dnmt1 is controlled by interaction of the catalytic domain with the N-terminal part of the enzyme leading to an allosteric activation of the enzyme after binding to methylated DNA. *Journal of molecular biology*, *309*(5), 1189-1199.
+
+[71]. Hermann, A., Goyal, R., & Jeltsch, A. (2004). The Dnmt1 DNA-(cytosine-C5)-methyltransferase methylates DNA processively with high preference for hemimethylated target sites. *Journal of Biological Chemistry*, *279*(46), 48350-48359.
+
+[72]. Song, J., Teplova, M., Ishibe-Murakami, S., & Patel, D. J. (2012). Structure-based mechanistic insights into DNMT1-mediated maintenance DNA methylation. *Science*, *335*(6069), 709-712.
+
+[73]. Bashtrykov, P., Jankevicius, G., Smarandache, A., Jurkowska, R. Z., Ragozin, S., & Jeltsch, A. (2012). Specificity of Dnmt1 for methylation of hemimethylated CpG sites resides in its catalytic domain. *Chemistry & biology*, *19*(5), 572-578.
+
+[74]. Lin, I. G., Han, L., Taghva, A., O’Brien, L. E., & Hsieh, C. L. (2002). Murine de novo methyltransferase Dnmt3a demonstrates strand asymmetry and site preference in the methylation of DNA in vitro. *Molecular and cellular biology*, *22*(3), 704-723.
+
+[75]. Handa, V., & Jeltsch, A. (2005). Profound flanking sequence preference of Dnmt3a and Dnmt3b mammalian DNA methyltransferases shape the human epigenome. *Journal of molecular biology*, *348*(5), 1103-1112.
+
+[76]. Wienholz, B. L., Kareta, M. S., Moarefi, A. H., Gordon, C. A., Ginno, P. A., & Chédin, F. (2010). DNMT3L modulates significant and distinct flanking sequence preference for DNA methylation by DNMT3A and DNMT3B in vivo. *PLoS Genet*, *6*(9), e1001106.
+
+[77]. Jurkowska, R. Z., Siddique, A. N., Jurkowski, T. P., & Jeltsch, A. (2011). Approaches to enzyme and substrate design of the murine Dnmt3a DNA methyltransferase. *Chembiochem*, *12*(10), 1589-1594.
+
+[78]. Emperle, M., Rajavelu, A., Kunert, S., Arimondo, P. B., Reinhardt, R., Jurkowska, R. Z., & Jeltsch, A. (2018). The DNMT3A R882H mutant displays altered flanking sequence preferences. *Nucleic acids research*, *46*(6), 3130-3139.
+
+[79]. Emperle, M., Adam, S., Kunert, S., Dukatz, M., Baude, A., Plass, C., … & Jeltsch, A. (2019). Mutations of R882 change flanking sequence preferences of the DNA methyltransferase DNMT3A and cellular methylation patterns. *Nucleic acids research*, *47*(21), 11355-11367.
+
+[80]. Gao, L., Emperle, M., Guo, Y., Grimm, S. A., Ren, W., Adam, S., … & Dukatz, M. (2020). Comprehensive structure-function characterization of DNMT3B and DNMT3A reveals distinctive de novo DNA methylation mechanisms. *bioRxiv*.
+
+[81]. Vilkaitis, G., Suetake, I., Klimašauskas, S., & Tajima, S. (2005). Processive methylation of hemimethylated CpG sites by mouse Dnmt1 DNA methyltransferase. *Journal of Biological Chemistry*, *280*(1), 64-72.
+
+[82]. Goyal, R., Reinhardt, R., & Jeltsch, A. (2006). Accuracy of DNA methylation pattern preservation by the Dnmt1 methyltransferase. *Nucleic acids research*, *34*(4), 1182-1188.
+
+[83]. Song, J., Rechkoblit, O., Bestor, T. H., & Patel, D. J. (2011). Structure of DNMT1-DNA complex reveals a role for autoinhibition in maintenance DNA methylation. *Science*, *331*(6020), 1036-1040.
+
+[84]. Ye, F., Kong, X., Zhang, H., Liu, Y., Shao, Z., Jin, J., … & Liu, Y. C. (2018). Biochemical studies and molecular dynamic simulations reveal the molecular basis of conformational changes in DNA methyltransferase-1. *ACS chemical biology*, *13*(3), 772-781.
+
+[85]. Jaenisch, R., & Bird, A. (2003). Epigenetic regulation of gene expression: how the genome integrates intrinsic and environmental signals. Nature genetics, 33(3), 245-254.
+
+[86]. Patra, S. K., Deb, M., & Patra, A. (2011). Molecular marks for epigenetic identification of developmental and cancer stem cells. Clinical epigenetics, 2(1), 27-53.
+
+[87]. Campbell, P. M., & Szyf, M. (2003). Human DNA methyltransferase gene DNMT1 is regulated by the APC pathway. Carcinogenesis, 24(1), 17-24.
+
+[88]. Jurkowska, R. Z., Jurkowski, T. P., & Jeltsch, A. (2011). Structure and function of mammalian DNA methyltransferases. Chembiochem, 12(2), 206-222.
+
+[89]. Jin, B., Li, Y., & Robertson, K. D. (2011). DNA methylation: superior or subordinate in the epigenetic hierarchy?. Genes & cancer, 2(6), 607-617.
+
+[90]. Svedruzic, Z. M. (2008). Mammalian cytosine DNA methyltransferase Dnmt1: enzymatic mechanism, novel mechanism-based inhibitors, and RNA-directed DNA methylation. Current medicinal chemistry, 15(1), 92-106.
+
+[91]. Robertson, K. D. (2005). DNA methylation and human disease. Nature Reviews Genetics, 6(8), 597-610.
+
+[92]. Gopalakrishnan, S., Van Emburgh, B. O., & Robertson, K. D. (2008). DNA methylation in development and human disease. Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis, 647(1-2), 30-38.
+
+[93]. Jin, B., Yao, B., Li, J. L., Fields, C. R., Delmas, A. L., Liu, C., & Robertson, K. D. (2009). DNMT1 and DNMT3B modulate distinct polycomb-mediated histone modifications in colon cancer. Cancer research, 69(18), 7412-7421.
+
+[94]. Jin, B., Tao, Q., Peng, J., Soo, H. M., Wu, W., Ying, J., ... & Robertson, K. D. (2008). DNA methyltransferase 3B (DNMT3B) mutations in ICF syndrome lead to altered epigenetic modifications and aberrant expression of genes regulating development, neurogenesis and immune function. Human molecular genetics, 17(5), 690-709.
+
+[95]. Lister, R., Pelizzola, M., Dowen, R. H., Hawkins, R. D., Hon, G., Tonti-Filippini, J., ... & Edsall, L. (2009). Human DNA methylomes at base resolution show widespread epigenomic differences. nature, 462(7271), 315-322.
+
+[96]. Hotchkiss, R. D. (1948). The quantitative separation of purines, pyrimidines, and nucleosides by paper chromatography. Journal of Biological Chemistry, 175(1), 315-332.
+
+[97]. Jeltsch, A. (2002). Beyond Watson and Crick: DNA methylation and molecular enzymology of DNA methyltransferases. Chembiochem, 3(4), 274-293.
+
+[98]. Klose, R. J., & Bird, A. P. (2006). Genomic DNA methylation: the mark and its mediators. Trends in biochemical sciences, 31(2), 89-97.
+
+
+
+
+
 
 
