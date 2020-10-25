@@ -111,7 +111,7 @@ The major epigenetic signals include DNA methylation and demethylation, covalent
 
 ### DNA methylation
 
-DNA methylation was first discovered in calf thymus DNA by Hotchkiss, in 1948 [96]. It is a heritable epigenetic mark involving the covalent transfer of a methyl group to the C-5 position of the cytosine ring of DNA by DNA methyltransferases 1 (DNMTs) [91]. In prokaryotes, DNA methylation takes place on both cytosine and adenine bases and constitutes a branch of the host restriction system to distinguish self and non-self DNA. However in multicellular eukaryotes this modification is limited to cytosine bases only and acts mainly as a repressive tag resulting in silent chromatin state and transcriptional repression [97, 98]. In mammals, DNA methylation occurs at cytosines in any context of the genome. In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95]. However, more than 98% of DNA methylation occurs in a CpG dinucleotide context in somatic cells, while as much as a quarter of all methylation appears in a non-CpG context in embryonic stem cells (ESCs) [95]. 
+DNA methylation was first discovered in calf thymus DNA by Hotchkiss, in 1948 [96]. It is a heritable epigenetic mark involving the covalent transfer of a methyl group to the C-5 position of the cytosine ring of DNA by DNA methyltransferases 1 (DNMTs) [91]. DNA methylation is well conserved among most plant, animal and fungal models[2]. In prokaryotes, DNA methylation takes place on both cytosine and adenine bases and constitutes a branch of the host restriction system to distinguish self and non-self DNA. However in multicellular eukaryotes this modification is limited to cytosine bases only and acts mainly as a repressive tag resulting in silent chromatin state and transcriptional repression [97, 98]. In mammals, DNA methylation occurs at cytosines in any context of the genome. In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95]. However, more than 98% of DNA methylation occurs in a CpG dinucleotide context in somatic cells [3, 4], while as much as a quarter of all methylation appears in a non-CpG context in embryonic stem cells (ESCs) [95]. 
 
 Most DNA methylation is essential for normal development, and it plays a very important role in a number of key processes including genomic imprinting, X-chromosome inactivation, and suppression of repetitive element transcription and transposition and, when dysregulated, contributes to diseases like cancer [91, 92, 93, 94]. It is considered to be one of the first steps in epigenetic regulation, acting as a fundamental mechanism in functional organization of the human genome. It is also an attractive and promising target in the development of new drugs for cancer chemotherapy as epigenetic alterations are, in principle, more readily reversible than genetic anomalies [88].
 
@@ -152,24 +152,43 @@ DNA methylation obstructs transcriptional activity via two general schemes. Firs
 
 ### 3D chromatin structure
 
-## Genomic Landscape of Epigenetics in Somatic Cells
+## Genomic Landscape of Epigenetics in Mamilian Somatic Cells
 
 The epigenetic landscape can vary across genomic regions (spatial heterogeneity), vary within and across cell cycle(temporal heterogeneity), and across cells (cell-to-cell heterogeneity). It grown increasingly complicated, encompassing DNA methylation, the histone code, non-coding RNA, and nucleosome positioning, along with DNA sequence [89]. 
 
-### Landscape in Promoter
+### Overall Landscape
 
 #### DNA methylation
 
-#### Histone modification
+Mammalian genomes are globally CpG­ depleted and, of the roughly 28 million CpGs in the human genome, 60–80% are generally methylated. Less than 10% of CpGs occur in CG­ dense regions that are termed **CpG islands**; These are prevalent at transcription start sites(TSS) of housekeeping and developmental regulator genes, where they are largely resistant to DNA methylation, i.e. unmethylated [7].
 
-#### Nucleosome positioning
+### Epigenetics in Promoter
 
-#### 3D chromatin structure
+#### DNAm in Promoter
 
-### Landscape in Enhancer
+Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**, i.e. unmethylated. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by **H3K27me3**(Histone 3 lysine 27 methylation), which may also protect them from spurious DNA methylation [40, 41]. 
 
-### Landscape in Gene Body
+#### Histone modification in Promoter
 
+#### Nucleosome positioning in Promoter
+
+#### 3D chromatin structure in Promoter
+
+
+### Epigenetics in CpG island
+
+CpG islands(CGIs), which are known to recruit Trithorax (TrxG) and Polycomb group proteins.
+
+
+### Epigenetics in Enhancer
+
+### Epigenetics in Gene Body
+
+
+
+## Maintenance of Epigenetics
+
+### Maintenance of DNA methylation
 
 
 ## Epigenetic Technology
@@ -194,8 +213,6 @@ The epigenetic landscape can vary across genomic regions (spatial heterogeneity)
 
 ### Computational Epigenetics
 
-
-
 ## Functions of Epigenetics
 
 ### Aging Epigenetics
@@ -206,7 +223,7 @@ The epigenetic landscape can vary across genomic regions (spatial heterogeneity)
 
 ### Dynamics of Epigenetics in Development
 
-The genomic methylation blueprint is created during two developmental periods—in germ cells and pre-implantation embryos—generating cells with broad developmental potential [99, 100]. This system of establishing de novo methylation pattern where new methyl marks are added to previously unmethylated cytosines is mainly chaperoned by the de novo methyltransferases DNMT3A and DNMT3B. Maintenance methylation by DNMT1 then ensures that hemi-methylated daughter strands in somatic differentiated cells get methylated to faithfully propagate the proper DNA methylation patterns across successive cell generations [100].
+The genomic methylation blueprint is created during two developmental periods—in germ cells and pre-implantation embryos—generating cells with broad developmental potential [99, 100]. Three conserved enzymes, DNA methyltransferase 1 (DNMT1), DNMT3A and DNMT3B, are responsible for its deposition and maintenance and are essential for normal development [5,6].This system of establishing de novo methylation pattern where new methyl marks are added to previously unmethylated cytosines is mainly chaperoned by the de novo methyltransferases DNMT3A and DNMT3B. Maintenance methylation by DNMT1 then ensures that hemi-methylated daughter strands in somatic differentiated cells get methylated to faithfully propagate the proper DNA methylation patterns across successive cell generations [100].
 
 ### Regeneration Epigenetics
 
