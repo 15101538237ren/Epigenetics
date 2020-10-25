@@ -1,9 +1,12 @@
-# Literature Review in Epigenetic and Gene Regulation
+# Literature Review on Epigenetics and Gene Regulation
+
+Hello, this repo aims at summarizing all the current knowledge about **Epigenetics and Gene Regulation**, also any topics of **Epigenetics in contexts of development, aging and cancer**. 
+
+If you are interested to contribute, please contact hongleir@uci.edu, we are looking forard your expertise. 
 
 Table of Contents
 =================
 
-* [Literature Review in Epigenetic and Gene Regulation](#literature-review-in-epigenetic-and-gene-regulation)
   * [1. Overview](#1-overview)
   * [2. Fundamental questions](#2-fundamental-questions)
   * [3. DNA methylation](#3-dna-methylation)
