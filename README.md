@@ -137,7 +137,7 @@ It has been widely believed that DNMT1 acts mainly as a *maintenance* methyltran
 
 - DNMT1
 
-**DNMT1** preferentially methylates hemi-methylated DNA in vitro and is localized to replication foci during S phase.
+**DNMT1** preferentially methylates hemi-methylated DNA *in vitro* and is localized to replication foci during S phase.
 
 Mouse models with both alleles of Dnmt1 deleted are embryonic lethal at approximately day E9 [104, 105].
 
@@ -168,24 +168,29 @@ Dnmt3L homozygous-null mice are viable, whereas heterozygous embryos derived fro
 During mammalian development and cancer, DNA methylation and
 specific histone modifications appear to reciprocally influence each other in deposition: histone methylation may direct DNA methylation patterns  (Fig. 1), and DNA methylation may serve as a template for the establishment of certain histone modifications (Fig. 2) after DNA replication [113].
 
-There is also evidence that DNA methylation directs **H3K9me2/3**, although this remains controversial. Hypomorphic mutation of **DNMT1** gene causes a global reduction of **H3K9me2/3** levels in a cancer cell line; re-expression of DNMT1 rescues this phenotype [128, 129]. Dnmt1 and Dnmt3b double knockout in colon cancer cells induces changes in H3K9 methylation levels at heterochromatin and specific tumor suppressor loci [130]. Triple knockout (TKO) of Dnmt1/Dnmt3a/Dnmt3b in ESCs results in complete loss of DNA methylation at several repetitive sequences and imprinted genes [131]; however, TKO ES cells retain occupancy of H3K9 methylation and HP-1 in pericentromeric regions [131]. The link between DNA methylation and H3K9 methylation is via interaction of the enzymes mediating these marks.  DNMT1, for example, directly binds G9A both *in vivo* and *in vitro*, and these two proteins colocalize in H3K9 methylation at replication foci during DNA replication. Depletion of DNMT1 not only impairs DNA methylation but also retards G9A loading and H3K9 methylation on chromatin and rDNA repeats [128].
-
 ![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
 
 Figure 1. How the histone code may direct DNA methylation during development and carcinogenesis. (A) During normal development, the transcriptionally activating mark H3K4 me3 (x) blocks or repels DNMTs, whereas the repressive marks H3K9me or H3K27me (y) permit or recruit
 DNMTs, possibly by direct protein-protein interactions (e.g., EZH2-DNMTs). During carcinogenesis, disruption of the histone code in the form of (B) loss of H3K4me3 (x), (C) substitution of H3K4me3 with H3K9me or H3K27me (y), randomization of marks, aberrant acquisition of a new mark (z), or (D) loss of all histone marks permits or actively induces DNMT recruitment. x = H3K4me3; y = H3K9me or H3K27me; z = other histone mark; bent arrow = transcription start site; lollipops = histone marks; black circles = DNA methylation.
 
+There is also evidence that DNA methylation directs **H3K9me2/3**, although this remains controversial. Hypomorphic mutation of **DNMT1** gene causes a global reduction of **H3K9me2/3** levels in a cancer cell line; re-expression of DNMT1 rescues this phenotype [128, 129]. Dnmt1 and Dnmt3b double knockout in colon cancer cells induces changes in H3K9 methylation levels at heterochromatin and specific tumor suppressor loci [130]. Triple knockout (TKO) of Dnmt1/Dnmt3a/Dnmt3b in ESCs results in complete loss of DNA methylation at several repetitive sequences and imprinted genes [131]; however, TKO ES cells retain occupancy of H3K9 methylation and HP-1 in pericentromeric regions [131]. The link between DNA methylation and H3K9 methylation is via interaction of the enzymes mediating these marks.  DNMT1, for example, directly binds G9A both *in vivo* and *in vitro*, and these two proteins colocalize in H3K9 methylation at replication foci during DNA replication. Depletion of DNMT1 not only impairs DNA methylation but also retards G9A loading and H3K9 methylation on chromatin and rDNA repeats [128]. Similarly, heterochromatic colocalization of SUV39H1 and DNMT1 exists exclusively before cell division.
+
 ![Figure 2](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig2.png)
 
-Figure 2. How the histone code may rely on the DNA methylation machinery for direction. Upon binding to CpG-rich regions, DNMTs may directly recruit HMTs to these domains. During DNA replication, UHRF1 preferentially binds hemimethylated DNA and interacts with/ recruits DNMT1 and G9A. **PCNA** may also have a role in the recruitment process. Methyl-CpG– binding proteins (MBDs) specifically interact with methylated DNA and may form complexes with HMTs such as SETDB1 to direct histone methylation to regions of DNA methylation.
+Figure 2. How the histone code may rely on the DNA methylation machinery for direction. Upon binding to CpG-rich regions, DNMTs may directly recruit HMTs to these domains. During DNA replication, UHRF1 preferentially binds hemimethylated DNA and interacts with/ recruits DNMT1 and G9A. **PCNA** may also have a role in the recruitment process. Methyl-CpG– binding proteins (**MBDs**) specifically interact with methylated DNA and may form complexes with HMTs such as SETDB1 to direct histone methylation to regions of DNA methylation.
 
-**HP1**(heterochromatin protein 1) proteins modulate gene transcription in both euchromatin and heterochromatin. **HP1** binds to methylated H3K9 through its N-terminal chromo-domain. HP1 proteins also recruit a variety of other factors including histone deacetylases, transcriptional repressors, and chromatin remodeling enzymes to the methylated region to further enhance and/or stabilize repressive domains [91, 124].
+Yet an additional link between DNA methylation and the histone code exists via the methyl-CpG–binding proteins (**MBDs**), which interact specifically with methylated DNA and mediate transcriptional repression (Fig. 2). During replication of DNA methylation-rich regions of the genome, **CAF1** forms a complex with **MBD1** and the histone lysine methyltransferase **SETDB1**, thereby coupling histone methylation with DNA methylation [125]. **MBD1** deletion suggest that H3K9 methylation mediated by **SETDB1** is dependent on **MBD1**, which recruits **SETDB1** to **CAF1** at active replication forks [132].
+
+The two global mechanisms of gene regulation, DNA methylation and histone deacetylation, are also linked via the methyl-CpG– binding protein **MeCP2**. **MeCP2** binds tightly to chromosomes in a DNA methylation–dependent manner. It contains a transcriptional-repression domain (TRD) that functions at a distance *in vitro* and *in vivo*, and **MeCP2** associates with a corepressor complex containing histone deacetylases [133].
+
 
 - ##### In Heterochromatin
 
 **H3K9me3**, **H3K27me3** and **H4K20me3** has been suggested to be a prerequisite for subsequent DNA methylation, which appears to be attributable to physical associations between the components of these histone methylation systems and one or more DNMTs (Fig. 1). In the context of H3K9 and H3K27, the relevant histone lysine methyltransferases, **SUV39H1/2** and **EZH2**, respectively, interact directly with **DNMT1, DNMT3A, and DNMT3B** [115, 116].  Pericentromeric localization of DNMT3B depends on **SUV39H1/2**-mediated H3K9 dimethylation or trimethylation [115]. **SUV39H1/2** double-null murine embryonic stem cells display reduced DNA methylation levels at major satellite repeats but not at minor satellites or endogenous C-type retroviral elements [116]. Endogenous DNMT1 and DNMT3A also associate with H3K9 methyltransferase SUV39H1 activity as well, mediated by the conserved PHD-like motif in the case of DNMT3A [117].
 
 The binding of **HP1** to constitutive heterochromatin depends on the enzymatic activity of **SUV39H1/2**, which catalyze **H3K9me3** [122], while **HP1** binding to euchromatin depends on dimethylation of H3K9 mediated by **G9A** [118]. Methylated H3K9 serves as a binding platform for **HP1** to associate with the DNA methylation machinery. HP1 binds directly to the PHD-like motif of DNMT3A *in vitro* [117]. The direct physical link identified between the DNMTs and the H3K9me-HP1 system therefore ensures that H3K9 methylation directly influences DNA methylation patterns [115, 117].
+
+**HP1**(heterochromatin protein 1) proteins modulate gene transcription in both euchromatin and heterochromatin. **HP1** binds to methylated H3K9 through its N-terminal chromo-domain. HP1 proteins also recruit a variety of other factors including histone deacetylases, transcriptional repressors, and chromatin remodeling enzymes to the methylated region to further enhance and/or stabilize repressive domains [91, 124].
 
 - ##### In Promoter Silencing
 
@@ -229,20 +234,18 @@ Mammalian genomes are globally CpG­ depleted and, of the roughly 28 million CpG
 
 ### Epigenetics in Promoter
 
-#### DNAm in Promoter
+CHIP-seq of **CFP1** identified a notable concordance between unmethylated CGIs and **H3K4me3** in the mouse brain [134]. Levels of **H3K4me3** at CGIs are markedly reduced in **CFP1**-depleted cells, consistent with the finding that CFP1 associates with the H3K4 methyltransferase **SETD1**. 
 
-Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**, i.e. unmethylated. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by ****H3K27me3****(H3 lysine 27 methylation), which may also protect them from spurious DNA methylation [40, 41]. 
+**DNMT3L** recognizes histone H3 tails that are unmethylated at lysine 4 and may therefore induce *de novo* DNA methylation by recruitment and activation of DNMT3A2 [37], and this interaction was strongly inhibited
+by methylation of H3K4 but was insensitive to modifications at other positions. **H3K4 methylation may protect certain loci from DNA methylation**.
 
-#### Histone modification in Promoter
+In mammals, there are at least 10 known or predicted H3K4 methyltransferases, which are generally categorized into the **MLL** (mixed lineage leukemia) family, **SET1** family, and others [135]. Disruption of the **SET** domain of **MLL** reduced H3K4me1 levels and increased DNA methylation levels at specific loci (e.g., Hoxd4) but not globally in a mouse model [136]. However, forced overexpression of exogenous **MLL** in **MLL** knockout cells did not reduce global DNA methylation levels [137].
 
-#### Nucleosome positioning in Promoter
-
-#### 3D chromatin structure in Promoter
-
+It is therefore possible that DNA methylation represents a default state of the genome unless H3K4me, or possibly other histone marks, is present to maintain specific regions (e.g., promoters) free of DNA methylation to permit proper gene regulation (Fig. 2).
 
 ### Epigenetics in CpG island
 
-CpG islands(CGIs), which are known to recruit Trithorax (TrxG) and Polycomb group proteins.
+DNA methylation–free CGIs recruit CFP1, and probably other CXXC domain– containing proteins as well, to stimulate methylation of H3K4. Densely methylated CGIs, on the other hand, attract methyl-CpG–binding proteins, which in turn recruit enzymes that reinforce repressive histone marks. CpG islands(CGIs), which are known to recruit Trithorax (TrxG) and Polycomb group proteins.
 
 
 ### Epigenetics in Enhancer
@@ -284,8 +287,6 @@ The maintenance of DNA methylation at the replication fork is likely ensured by 
 ### Computational Epigenetics
 
 ## Functions of Epigenetics
-
-### Aging Epigenetics
 
 ### Dynamics of Epigenetics in Aging
 
@@ -543,11 +544,11 @@ Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-spec
 
 [60]. Ooi, S. K., Wolf, D., Hartung, O., Agarwal, S., Daley, G. Q., Goff, S. P., & Bestor, T. H. (2010). Dynamic instability of genomic methylation patterns in pluripotent stem cells. *Epigenetics & chromatin*, *3*(1), 17.
 
-[61]. Muotri, A. R., Marchetto, M. C., Coufal, N. G., Oefner, R., Yeo, G., Nakashima, K., & Gage, F. H. (2010). L1 retrotransposition in neurons is modulated by MeCP2. *Nature*, *468*(7322), 443-446.
+[61]. Muotri, A. R., Marchetto, M. C., Coufal, N. G., Oefner, R., Yeo, G., Nakashima, K., & Gage, F. H. (2010). L1 retrotransposition in neurons is modulated by **MeCP2**. *Nature*, *468*(7322), 443-446.
 
-[62]. Jones, P. L., Veenstra, G. C. J., Wade, P. A., Vermaak, D., Kass, S. U., Landsberger, N., … & Wolffe, A. P. (1998). Methylated DNA and MeCP2 recruit histone deacetylase to repress transcription. *Nature genetics*, *19*(2), 187-191.
+[62]. Jones, P. L., Veenstra, G. C. J., Wade, P. A., Vermaak, D., Kass, S. U., Landsberger, N., … & Wolffe, A. P. (1998). Methylated DNA and **MeCP2** recruit histone deacetylase to repress transcription. *Nature genetics*, *19*(2), 187-191.
 
-[63]. Nan, X., Ng, H. H., Johnson, C. A., Laherty, C. D., Turner, B. M., Eisenman, R. N., & Bird, A. (1998). Transcriptional repression by the methyl-CpG-binding protein MeCP2 involves a histone deacetylase complex. *Nature*, *393*(6683), 386-389.
+[63]. Nan, X., Ng, H. H., Johnson, C. A., Laherty, C. D., Turner, B. M., Eisenman, R. N., & Bird, A. (1998). Transcriptional repression by the methyl-CpG-binding protein **MeCP2** involves a histone deacetylase complex. *Nature*, *393*(6683), 386-389.
 
 [64]. Jähner, D., Stuhlmann, H., Stewart, C. L., Harbers, K., Löhler, J., Simon, I., & Jaenisch, R. (1982). De novo methylation and expression of retroviral genomes during mouse embryogenesis. *Nature*, *298*(5875), 623-628.
 
@@ -569,11 +570,11 @@ Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-spec
 
 [73]. Bashtrykov, P., Jankevicius, G., Smarandache, A., Jurkowska, R. Z., Ragozin, S., & Jeltsch, A. (2012). Specificity of Dnmt1 for methylation of hemimethylated CpG sites resides in its catalytic domain. *Chemistry & biology*, *19*(5), 572-578.
 
-[74]. Lin, I. G., Han, L., Taghva, A., O’Brien, L. E., & Hsieh, C. L. (2002). Murine de novo methyltransferase Dnmt3a demonstrates strand asymmetry and site preference in the methylation of DNA in vitro. *Molecular and cellular biology*, *22*(3), 704-723.
+[74]. Lin, I. G., Han, L., Taghva, A., O’Brien, L. E., & Hsieh, C. L. (2002). Murine de novo methyltransferase Dnmt3a demonstrates strand asymmetry and site preference in the methylation of DNA *in vitro*. *Molecular and cellular biology*, *22*(3), 704-723.
 
 [75]. Handa, V., & Jeltsch, A. (2005). Profound flanking sequence preference of Dnmt3a and Dnmt3b mammalian DNA methyltransferases shape the human epigenome. *Journal of molecular biology*, *348*(5), 1103-1112.
 
-[76]. Wienholz, B. L., Kareta, M. S., Moarefi, A. H., Gordon, C. A., Ginno, P. A., & Chédin, F. (2010). DNMT3L modulates significant and distinct flanking sequence preference for DNA methylation by DNMT3A and DNMT3B in vivo. *PLoS Genet*, *6*(9), e1001106.
+[76]. Wienholz, B. L., Kareta, M. S., Moarefi, A. H., Gordon, C. A., Ginno, P. A., & Chédin, F. (2010). DNMT3L modulates significant and distinct flanking sequence preference for DNA methylation by DNMT3A and DNMT3B *in vivo*. *PLoS Genet*, *6*(9), e1001106.
 
 [77]. Jurkowska, R. Z., Siddique, A. N., Jurkowski, T. P., & Jeltsch, A. (2011). Approaches to enzyme and substrate design of the murine Dnmt3a DNA methyltransferase. *Chembiochem*, *12*(10), 1589-1594.
 
@@ -685,12 +686,17 @@ Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-spec
 
 [131]. Tsumura, A., Hayakawa, T., Kumaki, Y., Takebayashi, S. I., Sakaue, M., Matsuoka, C., ... & Nakayama, J. I. (2006). Maintenance of self‐renewal ability of mouse embryonic stem cells in the absence of DNA methyltransferases Dnmt1, Dnmt3a and Dnmt3b. Genes to Cells, 11(7), 805-814.
 
+[132]. Sarraf, S. A., & Stancheva, I. (2004). RETRACTED: Methyl-CpG Binding Protein MBD1 Couples Histone H3 Methylation at Lysine 9 by SETDB1 to DNA Replication and Chromatin Assembly.
 
+[133]. Nan, X., Ng, H. H., Johnson, C. A., Laherty, C. D., Turner, B. M., Eisenman, R. N., & Bird, A. (1998). Transcriptional repression by the methyl-CpG-binding protein MeCP2 involves a histone deacetylase complex. Nature, 393(6683), 386-389.
 
+[134]. Lee, J. H., & Skalnik, D. G. (2002). CpG-binding protein is a nuclear matrix-and euchromatin-associated protein localized to nuclear speckles containing human trithorax Identification of nuclear matrix targeting signals. Journal of Biological Chemistry, 277(44), 42259-42267.
 
+[135]. Ruthenburg, A. J., Allis, C. D., & Wysocka, J. (2007). Methylation of lysine 4 on histone H3: intricacy of writing and reading a single epigenetic mark. Molecular cell, 25(1), 15-30.
 
+[136]. Terranova, R., Agherbi, H., Boned, A., Meresse, S., & Djabali, M. (2006). Histone and DNA methylation defects at Hox genes in mice expressing a SET domain-truncated form of Mll. Proceedings of the National Academy of Sciences, 103(17), 6629-6634.
 
-
+[137]. Milne, T. A., Briggs, S. D., Brock, H. W., Martin, M. E., Gibbs, D., Allis, C. D., & Hess, J. L. (2002). MLL targets SET domain methyltransferase activity to Hox gene promoters. Molecular cell, 10(5), 1107-1117.
 
 
 
