@@ -109,6 +109,8 @@ The major epigenetic signals include DNA methylation and demethylation, covalent
 
 ### Histone modification
 
+Histone tails undergo a variety of covalent modifications including acetylation, methylation, phosphorylation, ubiquitination, and sumoylation, regulating key cellular process such as gene transcription, DNA replication, and DNA repair [113, 114].
+
 ### DNA methylation
 
 DNA methylation was first discovered in calf thymus DNA by Hotchkiss, in 1948 [96]. It is a heritable epigenetic mark involving the covalent transfer of a methyl group to the C-5 position of the cytosine ring of DNA by DNA methyltransferases 1 (DNMTs) [91]. DNA methylation is well conserved among most plant, animal and fungal models[2]. In prokaryotes, DNA methylation takes place on both cytosine and adenine bases and constitutes a branch of the host restriction system to distinguish self and non-self DNA. However in multicellular eukaryotes this modification is limited to cytosine bases only and acts mainly as a repressive tag resulting in silent chromatin state and transcriptional repression [97, 98]. In mammals, DNA methylation occurs at cytosines in any context of the genome. In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95]. However, more than 98% of DNA methylation occurs in a CpG dinucleotide context in somatic cells [3, 4], while as much as a quarter of all methylation appears in a non-CpG context in embryonic stem cells (ESCs) [95]. 
@@ -126,7 +128,30 @@ Most DNA methylation is essential for normal development, and it plays a very im
 
 ### Mechanisms of DNA Methylation
 
-Methylation of DNA is a post synthetic process catalyzed by a family of dedicated enzymes known as DNA by DNMTs(DNA methyltransferases). DNMT1, DNMT3A and DNMT3B methylate the cytosine residue in the presence of cofactor SAM (S-Adenosyl methionine), which donates the –CH3 group and is converted to SAH (S-Adenosyl homocysteine) [86, 101].
+
+#### Enzymes of DNA methylation
+
+Methylation of DNA is a post synthetic process catalyzed by a family of dedicated enzymes known as DNA by DNMTs(DNA methyltransferases). DNMT1, DNMT3A and DNMT3B methylate the cytosine residue in the presence of cofactor SAM (S-Adenosyl methionine), which donates the –CH3 group and is converted to SAH (S-Adenosyl homocysteine) [86, 101]. 
+
+It has been widely believed that DNMT1 acts mainly as a *maintenance* methyltransferase during DNA synthesis and that DNMT3A and DNMT3B act as *de novo* enzymes in development. However, mounting evidence indicates that DNMT1 may also be required for de novo methylation of genomic DNA19 and that DNMT3A and DNMT3B contribute to maintenance methylation during replication [109, 110].
+
+- DNMT1
+
+**DNMT1** preferentially methylates hemi-methylated DNA in vitro and is localized to replication foci during S phase.
+
+Mouse models with both alleles of Dnmt1 deleted are embryonic lethal at approximately day E9 [104, 105].
+
+- DNMT3A, DNMT3B
+
+DNMT3A and DNMT3B have preference for unmethylated CpG dinucleotides and perform *de novo* methylation during development. Mice lacking DNMT3A die at about 4 weeks of age, whereas DNMT3B knockout induces embryonic lethality at E14.5 to E18.5 [104, 106].
+
+- DNMT3L
+
+DNMT3L assists the DNMT3A/3B by increasing their ability to bind to the
+methyl group donor, S-adenosyl-Lmethionine (SAM), and stimulating their
+activity *in vivo*, although DNMT3L has no catalytic activity itself [107].
+
+Dnmt3L homozygous-null mice are viable, whereas heterozygous embryos derived from homozygous Dnmt3L-null oocytes die around E9 and display impaired maternal methylation imprints and biallelic expression of imprinted genes normally expressed only from the allele of paternal origin  [108].
 
 ### Mechanisms of Histone Modification
 
@@ -138,11 +163,26 @@ Methylation of DNA is a post synthetic process catalyzed by a family of dedicate
 
 ### Crosstalk between Genomics, Epigenetics and Environmental Cues
 
+#### Links between DNA Methylation & Histone Modifications
+During mammalian development and cancer, DNA methylation and
+specific histone modifications appear to reciprocally influence each other in deposition: histone methylation may direct DNA methylation patterns  (Fig. 1), and DNA methylation may serve as a template for the establishment of certain histone modifications (Fig. 2) after DNA replication [113].
+
+![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
+
+Figure 1. How the histone code may direct DNA methylation during development and carcinogenesis. (A) During normal development, the transcriptionally activating mark H3K4 me3 (x) blocks or repels DNMTs, whereas the repressive marks H3K9me or H3K27me (y) permit or recruit
+DNMTs, possibly by direct protein-protein interactions (e.g., EZH2-DNMTs). During carcinogenesis, disruption of the histone code in the form of (B) loss of H3K4me3 (x), (C) substitution of H3K4me3 with H3K9me or H3K27me (y), randomization of marks, aberrant acquisition of a new mark (z), or (D) loss of all histone marks permits or actively induces DNMT recruitment. x = H3K4me3; y = H3K9me or H3K27me; z = other histone mark; bent arrow = transcription start site; lollipops = histone marks; black circles = DNA methylation.
+
+![Figure 2](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig2.png)
+
+Figure 2. How the histone code may rely on the DNA methylation machinery for direction. Upon binding to CpG-rich regions, DNMTs may directly recruit HMTs to these domains. During DNA replication, UHRF1 preferentially binds hemimethylated DNA and interacts with/ recruits DNMT1 and G9A. PCNA may also have a role in the recruitment process. Methyl-CpG– binding proteins (MBDs) specifically interact with methylated DNA and may form complexes with HMTs such as SETDB1 to direct histone methylation to regions of DNA methylation.
+
 ## Gene Regulation of Epigenetics
 
 ### DNA Methylation
 
 DNA methylation obstructs transcriptional activity via two general schemes. First, methylated cytosine bases can hinder the interaction of transcriptional factors and RNA polymerase II with their cognate DNA recognition sequences. Second, methyl-CpG-binding proteins, such as MBD (methyl-CpG-binding domain) proteins, associate with methylated DNA and result in heterochromatin formation by recruiting HDACs (histone deacetylases) [98, 102].
+
+Methylated DNA participates in the formation of chromatin through interactions with various other epigenetic modifications such as the histone code, polycomb complexes, nucleosome positioning, non-coding RNA, and ATP-dependent chromatin remodeling proteins [111].
 
 ### Histone Modification
 
@@ -166,7 +206,7 @@ Mammalian genomes are globally CpG­ depleted and, of the roughly 28 million CpG
 
 #### DNAm in Promoter
 
-Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**, i.e. unmethylated. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by **H3K27me3**(Histone 3 lysine 27 methylation), which may also protect them from spurious DNA methylation [40, 41]. 
+Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**, i.e. unmethylated. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by **H3K27me3**(H3 lysine 27 methylation), which may also protect them from spurious DNA methylation [40, 41]. 
 
 #### Histone modification in Promoter
 
@@ -223,7 +263,7 @@ CpG islands(CGIs), which are known to recruit Trithorax (TrxG) and Polycomb grou
 
 ### Dynamics of Epigenetics in Development
 
-The genomic methylation blueprint is created during two developmental periods—in germ cells and pre-implantation embryos—generating cells with broad developmental potential [99, 100]. Three conserved enzymes, DNA methyltransferase 1 (DNMT1), DNMT3A and DNMT3B, are responsible for its deposition and maintenance and are essential for normal development [5,6].This system of establishing de novo methylation pattern where new methyl marks are added to previously unmethylated cytosines is mainly chaperoned by the de novo methyltransferases DNMT3A and DNMT3B. Maintenance methylation by DNMT1 then ensures that hemi-methylated daughter strands in somatic differentiated cells get methylated to faithfully propagate the proper DNA methylation patterns across successive cell generations [100].
+The genomic methylation blueprint is created during two developmental periods—in germ cells and pre-implantation embryos—generating cells with broad developmental potential [99, 100]. Three conserved enzymes, DNA methyltransferase 1 (DNMT1), DNMT3A and DNMT3B, are responsible for its deposition and maintenance and are essential for normal development [5,6].This system of establishing de novo methylation pattern where new methyl marks are added to previously unmethylated cytosines is mainly chaperoned by the de novo methyltransferases DNMT3A and DNMT3B. Maintenance methylation by DNMT1 then ensures that hemi-methylated daughter strands in somatic differentiated cells get methylated to faithfully propagate the proper DNA methylation patterns across successive cell generations [100]. DNA methylation is typically removed during zygote formation and then re-established in the embryo at approximately the time of implantation [103]. 
 
 ### Regeneration Epigenetics
 
@@ -254,6 +294,10 @@ In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetri
 ## Epigenetics and Human Disease
 
 ### Cancer Epigenetics
+
+#### DNA methylation in Cancer
+
+Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-specific hypermethylation of CpG islands (CGIs) [111] Hypomethylation arises mainly from loss of methylation at normally heavily methylated repeat elements, including satellites (e.g., SAT2) and retrotransposons (e.g., LINEs), leading to genomic instability and oncogene activation.  Locus-specific hypermethylation usually occurs at promoter CGIs of tumor suppressor genes, resulting in heritable transcriptional silencing [89, 112].
 
 ### Epigenetics of Immune Disorders
 
@@ -552,5 +596,44 @@ In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetri
 [101]. Lan, J., Hua, S., He, X., & Zhang, Y. (2010). DNA methyltransferases and methyl-binding proteins of mammals. Acta Biochim Biophys Sin, 42(4), 243-252.
 
 [102]. Buryanov, Y. I., & Shevchuk, T. V. (2005). DNA methyltransferases and structural-functional specificity of eukaryotic DNA modification. Biochemistry (Moscow), 70(7), 730-742.
+
+[103]. Zhu, J. K. (2009). Active DNA demethylation mediated by DNA glycosylases. Annual review of genetics, 43, 143-166.
+
+[104]. Li, E. (2002). Chromatin modification and epigenetic reprogramming in mammalian development. Nature Reviews Genetics, 3(9), 662-673.
+
+[105]. Li, E., Bestor, T. H., & Jaenisch, R. (1992). Targeted mutation of the DNA methyltransferase gene results in embryonic lethality. Cell, 69(6), 915-926.
+
+[106]. Okano, M., Bell, D. W., Haber, D. A., & Li, E. (1999). DNA methyltransferases Dnmt3a and Dnmt3b are essential for de novo methylation and mammalian development. Cell, 99(3), 247-257.
+
+[107]. Kareta, M. S., Botello, Z. M., Ennis, J. J., Chou, C., & Chédin, F. (2006). Reconstitution and mechanism of the stimulation of de novo methylation by human DNMT3L. Journal of Biological Chemistry, 281(36), 25893-25902.
+
+[108]. Bourc'his, D., Xu, G. L., Lin, C. S., Bollman, B., & Bestor, T. H. (2001). Dnmt3L and the establishment of maternal genomic imprints. Science, 294(5551), 2536-2539.
+
+[109]. Egger, G., Jeong, S., Escobar, S. G., Cortez, C. C., Li, T. W., Saito, Y., ... & Liang, G. (2006). Identification of DNMT1 (DNA methyltransferase 1) hypomorphs in somatic knockouts suggests an essential role for DNMT1 in cell survival. Proceedings of the National Academy of Sciences, 103(38), 14080-14085.
+
+[110]. Riggs, A. D., & Xiong, Z. (2004). Methylation and epigenetic fidelity. Proceedings of the National Academy of Sciences, 101(1), 4-5.
+
+[111]. Suzuki, M. M., & Bird, A. (2008). DNA methylation landscapes: provocative insights from epigenomics. Nature Reviews Genetics, 9(6), 465-476.
+
+[112]. Feinberg, A. P., Ohlsson, R., & Henikoff, S. (2006). The epigenetic progenitor origin of human cancer. Nature reviews genetics, 7(1), 21-33.
+
+[113]. Cedar, H., & Bergman, Y. (2009). Linking DNA methylation and histone modification: patterns and paradigms. Nature Reviews Genetics, 10(5), 295-304.
+
+[114]. Chi, P., Allis, C. D., & Wang, G. G. (2010). Covalent histone modifications—miswritten, misinterpreted and mis-erased in human cancers. Nature reviews cancer, 10(7), 457-469.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
