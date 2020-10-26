@@ -167,6 +167,29 @@ Dnmt3L homozygous-null mice are viable, whereas heterozygous embryos derived fro
 During mammalian development and cancer, DNA methylation and
 specific histone modifications appear to reciprocally influence each other in deposition: histone methylation may direct DNA methylation patterns  (Fig. 1), and DNA methylation may serve as a template for the establishment of certain histone modifications (Fig. 2) after DNA replication [113].
 
+**HP1**(heterochromatin protein 1) proteins modulate gene transcription in both euchromatin and heterochromatin. **HP1** binds to methylated H3K9 through its N-terminal chromodomain.
+
+- In Heterochromatin
+
+**H3K9me3**, **H3K27me3** and **H4K20me3** has been suggested to be a prerequisite for subsequent DNA methylation, which appears to be attributable to physical associations between the components of these histone methylation systems and one or more DNMTs (Fig. 1). In the context of H3K9 and H3K27, the relevant histone lysine methyltransferases, **SUV39H1/2** and **EZH2**, respectively, interact directly with **DNMT1, DNMT3A, and DNMT3B** [115, 116].  Pericentromeric localization of DNMT3B depends on **SUV39H1/2**-mediated H3K9 dimethylation or trimethylation [115]. **SUV39H1/2** double-null murine embryonic stem cells display reduced DNA methylation levels at major satellite repeats but not at minor satellites or endogenous C-type retroviral elements [116]. Endogenous DNMT1 and DNMT3A also associate with H3K9 methyltransferase SUV39H1 activity as well, mediated by the conserved PHD-like motif in the case of DNMT3A [117].
+
+The binding of **HP1** to constitutive heterochromatin depends on the enzymatic activity of **SUV39H1/2**, which catalyze **H3K9me3** [122], while **HP1** binding to euchromatin depends on dimethylation of H3K9 mediated by **G9A** [118]. Methylated H3K9 serves as a binding platform for **HP1** to associate with the DNA methylation machinery. HP1 binds directly to the PHD-like motif of DNMT3A *in vitro* [117]. The direct physical link identified between the DNMTs and the H3K9me-HP1 system therefore ensures that H3K9 methylation directly influences DNA methylation patterns [115, 117].
+
+- In Promoter Silencing
+
+**EZH2**, one of the core components of polycomb repressive complex 2 (PRC2), catalyzes **H3K27me3**, which acts subsequently to recruit the PRC1 complex and mediate transcription silencing. EZH2 physically interacts with the DNMTs and facilitates their binding to certain EZH2 target promoters [116]. Overexpression of EZH2 increases CpG methylation, while RNA interference knockdown of EZH2 reduces H3K27 methylation and DNA methylation at known EZH2 target genes [116].
+
+The G9A/GLP heteromeric complex induces both H3K9 and DNA methylation on G9A target loci, and these two epigenetic marks cooperatively suppress transcription of their target genes. Tachibana et al. showed that promoter regions of G9A/GLP target genes are DNA hypomethylated in G9a or Glp knockout ESCs [118].
+
+Histone arginine methylation has also been linked to DNA methylation and gene silencing [119]. Symmetric dimethylation of histone H4 arginine 3
+(H4R3me2s), catalyzed by PRMT5, serves as a direct binding target for
+DNMT3A, which may then induce methylation of adjacent CpG dinucleotides at PRMT5 target genes [119].
+
+Direct interactions between HP1 and DNMT1 mediate silencing of euchromatic genes [123]. Silencing of the survivin gene coincides with recruitment of G9A and HP1 in DNMT1 wild-type but not DNMT1-null cells [123]. Binding of GAL4-HP1 to a reporter construct is sufficient to induce repression and DNA methylation in DNMT1 wild-type but not DNMT1-null cells [123].
+
+In addition to the direct recruitment of DNMTs, histone methyltransferases and demethylases may also influence the stability of DNMT proteins [120]. **SET7**, a known histone methyltransferase for H3K4, colocalizes with DNMT1 and methylates DNMT1 at the K142 position to regulate its stability and degradation. Overexpression of **SET7** leads to decreased DNMT1 levels, and siRNA-mediated knockdown of **SET7** stabilizes DNMT1 [120]. Lysine-specific demethylase 1 (**LSD1**) has been shown to demethylate histone H3K4 and H3K9. **LSD1** also demethylates DNMT1 methylated at K142 to antagonize the effect of **SET7** [121].
+
+
 ![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
 
 Figure 1. How the histone code may direct DNA methylation during development and carcinogenesis. (A) During normal development, the transcriptionally activating mark H3K4 me3 (x) blocks or repels DNMTs, whereas the repressive marks H3K9me or H3K27me (y) permit or recruit
@@ -206,7 +229,7 @@ Mammalian genomes are globally CpG­ depleted and, of the roughly 28 million CpG
 
 #### DNAm in Promoter
 
-Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**, i.e. unmethylated. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by **H3K27me3**(H3 lysine 27 methylation), which may also protect them from spurious DNA methylation [40, 41]. 
+Most CpGs in mammalian genomes remain methylated during development, but CpG islands found at promoters of many housekeeping or developmentally regulated genes are constitutively **hypomethylated**, i.e. unmethylated. CpG island promoters are not usually repressed by DNA methylation and are instead silenced by ****H3K27me3****(H3 lysine 27 methylation), which may also protect them from spurious DNA methylation [40, 41]. 
 
 #### Histone modification in Promoter
 
@@ -507,7 +530,7 @@ Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-spec
 
 [57].  Liang, G., Chan, M. F., Tomigahara, Y., Tsai, Y. C., Gonzales, F. A., Li, E., … & Jones, P. A. (2002). Cooperativity between DNA methyltransferases in the maintenance methylation of repetitive elements. *Molecular and cellular biology*, *22*(2), 480-491.
 
-[58]. Karimi, M. M., Goyal, P., Maksakova, I. A., Bilenky, M., Leung, D., Tang, J. X., … & Lorincz, M. C. (2011). DNA methylation and SETDB1*H3K9me3 regulate predominantly distinct sets of genes, retroelements, and chimeric transcripts in mESCs. *Cell stem cell*, *8*(6), 676-687.
+[58]. Karimi, M. M., Goyal, P., Maksakova, I. A., Bilenky, M., Leung, D., Tang, J. X., … & Lorincz, M. C. (2011). DNA methylation and SETDB1***H3K9me3** regulate predominantly distinct sets of genes, retroelements, and chimeric transcripts in mESCs. *Cell stem cell*, *8*(6), 676-687.
 
 [59]. Leung, D. C., Dong, K. B., Maksakova, I. A., Goyal, P., Appanah, R., Lee, S., … & Rossi, F. (2011). Lysine methyltransferase G9a is required for de novo DNA methylation and the establishment, but not the maintenance, of proviral silencing. *Proceedings of the National Academy of Sciences*, *108*(14), 5718-5723.
 
@@ -621,6 +644,23 @@ Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-spec
 
 [114]. Chi, P., Allis, C. D., & Wang, G. G. (2010). Covalent histone modifications—miswritten, misinterpreted and mis-erased in human cancers. Nature reviews cancer, 10(7), 457-469.
 
+[115]. Lehnertz, B., Ueda, Y., Derijck, A. A., Braunschweig, U., Perez-Burgos, L., Kubicek, S., ... & Peters, A. H. (2003). Suv39h-mediated histone H3 lysine 9 methylation directs DNA methylation to major satellite repeats at pericentric heterochromatin. Current Biology, 13(14), 1192-1200.
+
+[116]. Viré, E., Brenner, C., Deplus, R., Blanchon, L., Fraga, M., Didelot, C., ... & Bollen, M. (2006). The Polycomb group protein EZH2 directly controls DNA methylation. Nature, 439(7078), 871-874.
+
+[117]. Fuks, F., Hurd, P. J., Deplus, R., & Kouzarides, T. (2003). The DNA methyltransferases associate with HP1 and the SUV39H1 histone methyltransferase. Nucleic acids research, 31(9), 2305-2312.
+
+[118]. Tachibana, M., Matsumura, Y., Fukuda, M., Kimura, H., & Shinkai, Y. (2008). G9a/GLP complexes independently mediate H3K9 and DNA methylation to silence transcription. The EMBO journal, 27(20), 2681-2690.
+
+[119]. Zhao, Q., Rank, G., Tan, Y. T., Li, H., Moritz, R. L., Simpson, R. J., ... & Cunningham, J. M. (2009). PRMT5-mediated methylation of histone H4R3 recruits DNMT3A, coupling histone and DNA methylation in gene silencing. Nature structural & molecular biology, 16(3), 304.
+
+[120]. Estève, P. O., Chin, H. G., Benner, J., Feehery, G. R., Samaranayake, M., Horwitz, G. A., ... & Pradhan, S. (2009). Regulation of DNMT1 stability through SET7-mediated lysine methylation in mammalian cells. Proceedings of the National Academy of Sciences, 106(13), 5076-5081.
+
+[121]. Wang, J., Hevi, S., Kurash, J. K., Lei, H., Gay, F., Bajko, J., ... & Gaudet, F. (2009). The lysine demethylase LSD1 (KDM1) is required for maintenance of global DNA methylation. Nature genetics, 41(1), 125-129.
+
+[122]. Cheutin, T., McNairn, A. J., Jenuwein, T., Gilbert, D. M., Singh, P. B., & Misteli, T. (2003). Maintenance of stable heterochromatin domains by dynamic HP1 binding. Science, 299(5607), 721-725.
+
+[123]. Smallwood, A., Estève, P. O., Pradhan, S., & Carey, M. (2007). Functional cooperation between HP1 and DNMT1 mediates gene silencing. Genes & development, 21(10), 1169-1178.
 
 
 
