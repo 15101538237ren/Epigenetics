@@ -107,7 +107,7 @@ In 1942, Waddington coined the term *epigenetics*, which he defined as changes i
 
 The major epigenetic signals include DNA methylation and demethylation, covalent post-translational reversible modifications of the histone proteins, such as acetylation, methylation, phosphorylation and ubiquitination, incorporation of histone variants and gene regulation by non-coding RNAs [88]. 
 
-Epigenetic mechanisms work in addition to the DNA template to stabilize gene expression programmes and thereby canalize cell-type identities [140]. The genetic message is differentially decoded in both time and space as a result of epigenetic constraints on the genome resulting either in gene activation or silencing[85].
+Epigenetic mechanisms work in addition to the DNA template to stabilize gene expression programmes and thereby canalize cell-type identities [140]. The genetic message is differentially decoded in both time and space as a result of epigenetic constraints on the genome resulting either in gene activation or silencing[85]. 
 
 ### Foundation of epigenetics
 
@@ -165,6 +165,13 @@ Studies by many groups led to the widely accepted model of nucleosomal organizat
 ### Non-coding RNA
 
 ### 3D chromatin structure
+
+
+
+### Fundamental questions in Epigenetics
+
+- What are the roles of the epigenetic marks?
+- How are they coordinated in normal development and disrupted in disease?
 
 
 ## Molecular Mechanisms of Epigenetics
@@ -263,6 +270,9 @@ Nucleosome positioning displays a sequence preference characterized by particula
 **It is well known that the composition of the nucleosome core particle influences chromatin structure and nucleosome positioning.** Emerging evidence has revealed that replacement of the core histones with variants of histone H2A or H3 represents another potential means of gene regulation [194, 195, 196, 197]. The histone H2A variant **H2A.Z** is excluded from regions of methylated DNA, and **H2A.Z** enrichment varies inversely with transcription within gene bodies, a finding conserved from plants to animals, indicating that H2A.Z incorporation may contribute to transcriptional activation by protecting genes against DNA methylation [196]. 
 
 
+Recent genome-wide studies have revealed that nucleosomes are significantly more enriched in exons compared to introns, consistent with other recent findings of enhanced exonic methylation of gene bodies [200].
+
+
 ## Gene Regulation of Epigenetics
 
 ### DNA Methylation
@@ -319,8 +329,6 @@ Experimentally imposed gene body methylation of an integrated transgene revealed
 
 <sub>Figure 5. **Intragenic DNA methylation is associated with highly expressed genes**. When unmethylated, RNA polymerase II may begin transcription at cryptic promoters. This activity may reduce the transcriptional efficiency of the gene product (Part A). Therefore, intragenic methylation at cryptic promoters may improve transcriptional efficiency (Part B). TSS, transcription start site; RNA pol II, RNA polymerase II.. (Figure from Ref.[211])</sub>
 
-Recent genome-wide studies have revealed that nucleosomes are significantly more enriched in exons compared to introns, consistent with other recent findings of enhanced exonic methylation of gene bodies [200].
-
 ## Maintenance of Epigenetics
 
 There is no obvious template, like the hemi-methylated CpGs in DNA methylation, for nucleosome reassembly after replication. **PCNA** (proliferating cell nuclear antigen), present at replication forks, plays a very important role both in DNA synthesis, as the polymerase processivity factor, and in the inheritance of epigenetic marks, which may act as a guide for other epigenetic modifications [125]. **PCNA** recruits a variety of epigenetic regulators such as the histone modifiers **HDACs** and SETD8, chromatin remodeler SMARCA5, and chromatin assembly factor 1 (**CAF1**) [125]. 
@@ -361,7 +369,7 @@ The maintenance of DNA methylation at the replication fork is likely ensured by 
 
 ### Dynamics of Epigenetics in Development
 
-The genomic methylation blueprint is created during two developmental periods—in germ cells and pre-implantation embryos—generating cells with broad developmental potential [99, 100]. Three conserved enzymes, DNA methyltransferase 1 (DNMT1), DNMT3A and DNMT3B, are responsible for its deposition and maintenance and are essential for normal development [5,6].This system of establishing de novo methylation pattern where new methyl marks are added to previously unmethylated cytosines is mainly chaperoned by the de novo methyltransferases DNMT3A and DNMT3B. Maintenance methylation by DNMT1 then ensures that hemi-methylated daughter strands in somatic differentiated cells get methylated to faithfully propagate the proper DNA methylation patterns across successive cell generations [100]. DNA methylation is typically removed during zygote formation and then re-established in the embryo at approximately the time of implantation [103]. 
+The genomic methylation blueprint is created during two developmental periods—in germ cells and pre-implantation embryos—generating cells with broad developmental potential [99, 100]. Three conserved enzymes, DNA methyltransferase 1 (DNMT1), DNMT3A and DNMT3B, are responsible for its deposition and maintenance and are essential for normal development [5,6].This system of establishing de novo methylation pattern where new methyl marks are added to previously unmethylated cytosines is mainly chaperoned by the de novo methyltransferases DNMT3A and DNMT3B. Maintenance methylation by DNMT1 then ensures that hemi-methylated daughter strands in somatic differentiated cells get methylated to faithfully propagate the proper DNA methylation patterns across successive cell generations [100]. DNA methylation is typically removed (DNA demethylation) during zygote formation, which is essential for cells to return to a pluripotent state, and then re-established in the embryo at approximately the time of implantation [103]. 
 
 ### Regeneration Epigenetics
 
