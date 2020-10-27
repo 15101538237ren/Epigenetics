@@ -103,21 +103,44 @@ Table of Contents
 
 ## Epigenetics
 
-The genetic message is differentially decoded in both time and space as a result of epigenetic constraints on the genome resulting either in gene activation or silencing[85]. The machinery behind this cell-specific differential gene expression mainly involves *Epigenetics*, which literally means *outside conventional genetics*, refers to the heritable epigenetic modifications and regulations that function without changing the DNA sequence [86, 87]. 
+In 1942, Waddington coined the term *epigenetics*, which he defined as changes in phenotype without changes in genotype, to explain aspects of development for which there was little mechanistic understanding [138, 139]. 
 
-The major epigenetic signals include DNA methylation and demethylation, covalent post- translational reversible modifications of the histone proteins, such as acetylation, methylation, phosphorylation and ubiquitination, incorporation of histone variants and gene regulation by non-coding RNAs [88].
+The major epigenetic signals include DNA methylation and demethylation, covalent post-translational reversible modifications of the histone proteins, such as acetylation, methylation, phosphorylation and ubiquitination, incorporation of histone variants and gene regulation by non-coding RNAs [88]. 
+
+Epigenetic mechanisms work in addition to the DNA template to stabilize gene expression programmes and thereby canalize cell-type identities [140]. The genetic message is differentially decoded in both time and space as a result of epigenetic constraints on the genome resulting either in gene activation or silencing[85]. 
+
+### Foundation of epigenetics
+
+Pioneering work carried out between 1869 and 1928 by Miescher, Flemming, Kossel and Heitz defined nucleic acids, chromatin and histone proteins, which led to the cytological distinction between **euchromatin** and **heterochromatin** [141] (Fig. 3a). This was followed by ground-breaking studies by Muller [142] (in Drosophila melanogaster) and McClintock [143] (in maize) on position-effect variegation (PEV) and transposable elements, providing early hints of non-Mendelian inheritance. Descriptions of the phenomena of X-chromosome inactivation [144] and imprinting [145, 146] subsequently led to the general concept that identical genetic material can be maintained in different **on** versus **off** states in the same nucleus, but its underlying mechanisms were poorly understood. 
+
+![Figure 3](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig3.png)
+
+<sub>Figure 3. **Euchromatin and heterochromatin**. a | Cytologically visible ground states of active (euchromatic) and repressed (heterochromatic) chromatin. Schematic representation of two interphase nuclei from female mouse somatic cells: the left nucleus displays broad and decondensed staining of unique DNA sequences and the right nucleus shows the characteristic heterochromatic foci (black dots) that are visualized by DAPI (4′,6-diamidino-2-phenylindole) staining of AT-rich repeat sequences. In addition, the densely staining Barr body (an inactive X chromosome (Xi)) at the nuclear periphery is indicated. In the early years, cytologists used various chromatin dyes and DNA-binding fluorochromes to discriminate euchromatic (decondensed and light staining) from heterochromatic (compact and dense staining) regions in eukaryotic chromatin. b | Enzymatic definition of chromatin states that stimulate gene activity (histone acetylation by p55 (also known as Gcn5)) or repress gene activity (histone methy- lation by Su(var)3–9 homologue 1 (SUV39H1)). In 1996, the nuclear histone acetyltransferase (HAT) p55 from Tetrahymena thermophila was described as a transcriptional co-activator that acetylates the histone H3 amino-terminal tail. The acetylated (Ac) lysine on H3 (H3K14ac) provides a docking site for bromodomain (Bromo)-containing accessory proteins that bind to and further stimulate nucleosome accessibility and transcriptional activity. Histone acetylation can be reversed by opposing histone deacetylases (HDACs), which often cause transcriptional repression. In 2000, the human histone lysine methyltransferase (KMT) SUV39H1 was described as an orthologue of a Drosophila melanogaster Su(var) position-effect variegation factor that methylates the histone H3 N-terminal tail. The trimethy- lated H3K9 (H3K9me3) provides a docking site for the chromodomain (Chromo)-containing hetero- chromatin protein 1 (HP1), which then impairs nucleosome accessibility and induces gene repression. The reversibility of histone lysine methylation was not known at that time. (Figure from Ref.[140])</sub>
 
 ### Histone modification
+
+- #### The finding history of histone modification
+
+In the mid-1960s, pioneering work of Allfrey [159] on histone modifications, in particular histone acetylation, led to the hypothesis that acetylation is closely linked to gene activity [160]. Many studies followed, including studies by Grunstein and others on histone-tail mutations in *Saccharomyces cerevisiae* that perturb gene silencing at telomeres and mating-type loci; this seminal work provided early functional evidence, including the first characterization of silent information regulator proteins [161, 162]. Development of modification- or site-specific antibodies (for example, histone 4 lysine 16 acetylation (H4K16ac)) by Turner and others documented non-random patterns of histone acetylation, such as hypoacetylation of the inactive X chromosome in female mammals [163] or the silent mating type genes in yeast [164], as well as hyperacetylation of the twofold upregulated X chromosome in D. melanogaster males [165] or expressed [166] β-globin genes in chicken red blood cells .These major discoveries made a compelling argument that histone modifications, in addition to DNA methylation, carry information that can distinguish euchromatin from heterochromatin. Powerful genetic screens in flies [167, 168, 169], yeast [170, 171] and plants [168, 172] had identified other key factors for chromatin- dependent gene regulation, such as heterochromatin protein 1 (HP1), Suppressor of variegation 3–9 (Su(var)3–9), Enhancer of zeste (E(z)), Polycomb, Trithorax, cryptic loci regulator 4 (Clr4) and DECREASED DNA METHYLATION 1 (DDM1). 
+
+- #### Introduction of histone modification
 
 Histone tails undergo a variety of covalent modifications including acetylation, methylation, phosphorylation, ubiquitination, and sumoylation, regulating key cellular process such as gene transcription, DNA replication, and DNA repair [113, 114].
 
 ### DNA methylation
 
-DNA methylation was first discovered in calf thymus DNA by Hotchkiss, in 1948 [96]. It is a heritable epigenetic mark involving the covalent transfer of a methyl group to the C-5 position of the cytosine ring of DNA by DNA methyltransferases 1 (DNMTs) [91]. DNA methylation is well conserved among most plant, animal and fungal models[2]. In prokaryotes, DNA methylation takes place on both cytosine and adenine bases and constitutes a branch of the host restriction system to distinguish self and non-self DNA. However in multicellular eukaryotes this modification is limited to cytosine bases only and acts mainly as a repressive tag resulting in silent chromatin state and transcriptional repression [97, 98]. In mammals, DNA methylation occurs at cytosines in any context of the genome. In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95]. However, more than 98% of DNA methylation occurs in a CpG dinucleotide context in somatic cells [3, 4], while as much as a quarter of all methylation appears in a non-CpG context in embryonic stem cells (ESCs) [95]. 
+- #### The finding history of DNA methylation
+**DNA methylation** was first discovered in calf thymus DNA by Hotchkiss, in 1948 [96], and a role for DNA methylation, in particular for 5-methylcytosine (5mC), in gene regulation was proposed in the mid-1970s by Holliday and Pugh [147], among others. By 1980, the functional connection between DNA methylation and gene repression was established [148], as was the existence of CpG islands [149]. The first 'epigenetic drug', 5-azacytidine (also known as 2′-deoxy-5-azacytidine and later called decitabine), which blocks DNA methylation, was used to alter gene expression and phenotypes in fibroblast cell lines [150]. Soon thereafter, Feinberg and Vogelstein [151] reported global DNA hypomethylation in cancer and, a decade later, local DNA hypermethylation of tumour suppressor genes was described — findings that were collectively reviewed [152]. These insights gave a compelling reason to pursue the ‘enzymology’ of DNA methylation. The successful purification and cloning of the mouse DNA (cytosine-5)-methyltransferase 1 (DNMT1) enzyme [153, 154] and the generation and analysis of Dnmt1-mutant mice [105] proved important advances towards this goal. During the same time frame, the first DNA-methyl-binding protein, MeCP2 (methyl-CpG-binding protein 2), was identified [155]. DNA methylation and 5mC (considered the ‘fifth base’) had been firmly established as a crucial epigenetic mechanism in many, but not all, organisms.
+
+- #### Introduction of DNA methylation
+
+**DNA methylation** is a heritable epigenetic mark involving the covalent transfer of a methyl group to the C-5 position of the cytosine ring of DNA by DNA methyltransferases 1 (DNMTs) [91]. DNA methylation is well conserved among most plant, animal and fungal models[2]. In prokaryotes, DNA methylation takes place on both cytosine and adenine bases and constitutes a branch of the host restriction system to distinguish self and non-self DNA. However in multicellular eukaryotes this modification is limited to cytosine bases only and acts mainly as a repressive tag resulting in silent chromatin state and transcriptional repression [97, 98]. In mammals, DNA methylation occurs at cytosines in any context of the genome. In plants, cytosines are methylated in both symmetrical (CG or CHG) or asymmetrical (CHH, where H is A, T, or C) contexts [95]. However, more than 98% of DNA methylation occurs in a CpG dinucleotide context in somatic cells [3, 4], while as much as a quarter of all methylation appears in a non-CpG context in embryonic stem cells (ESCs) [95]. 
 
 Most DNA methylation is essential for normal development, and it plays a very important role in a number of key processes including genomic imprinting, X-chromosome inactivation, and suppression of repetitive element transcription and transposition and, when dysregulated, contributes to diseases like cancer [91, 92, 93, 94]. It is considered to be one of the first steps in epigenetic regulation, acting as a fundamental mechanism in functional organization of the human genome. It is also an attractive and promising target in the development of new drugs for cancer chemotherapy as epigenetic alterations are, in principle, more readily reversible than genetic anomalies [88].
 
 ### Nucleosome positioning
+
+Studies by many groups led to the widely accepted model of nucleosomal organization of chromatin [156], which was first articulated in a provocative theory — the chromatin subunit model — put forward in 1974 [157] and visualized by the landmark X-ray crystal structure of the histone octamer–DNA particle in 1997 [158]. As was shown, the basic unit of the chromatin fibre is the nucleosome core particle, which is composed of two copies each of four histone proteins (a histone octamer) that package 147 bp of DNA.
 
 ### Non-coding RNA
 
@@ -171,13 +194,13 @@ specific histone modifications appear to reciprocally influence each other in de
 ![Figure 1](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig1.png)
 
 <sub>Figure 1. **How the histone code may direct DNA methylation during development and carcinogenesis**. (A) During normal development, the transcriptionally activating mark H3K4 me3 (x) blocks or repels DNMTs, whereas the repressive marks H3K9me or H3K27me (y) permit or recruit
-DNMTs, possibly by direct protein-protein interactions (e.g., EZH2-DNMTs). During carcinogenesis, disruption of the histone code in the form of (B) loss of H3K4me3 (x), (C) substitution of H3K4me3 with H3K9me or H3K27me (y), randomization of marks, aberrant acquisition of a new mark (z), or (D) loss of all histone marks permits or actively induces DNMT recruitment. x = H3K4me3; y = H3K9me or H3K27me; z = other histone mark; bent arrow = transcription start site; lollipops = histone marks; black circles = DNA methylation.</sub>
+DNMTs, possibly by direct protein-protein interactions (e.g., EZH2-DNMTs). During carcinogenesis, disruption of the histone code in the form of (B) loss of H3K4me3 (x), (C) substitution of H3K4me3 with H3K9me or H3K27me (y), randomization of marks, aberrant acquisition of a new mark (z), or (D) loss of all histone marks permits or actively induces DNMT recruitment. x = H3K4me3; y = H3K9me or H3K27me; z = other histone mark; bent arrow = transcription start site; lollipops = histone marks; black circles = DNA methylation. (Figure from Ref.[89])</sub>
 
 There is also evidence that DNA methylation directs **H3K9me2/3**, although this remains controversial. Hypomorphic mutation of **DNMT1** gene causes a global reduction of **H3K9me2/3** levels in a cancer cell line; re-expression of DNMT1 rescues this phenotype [128, 129]. Dnmt1 and Dnmt3b double knockout in colon cancer cells induces changes in H3K9 methylation levels at heterochromatin and specific tumor suppressor loci [130]. Triple knockout (TKO) of Dnmt1/Dnmt3a/Dnmt3b in ESCs results in complete loss of DNA methylation at several repetitive sequences and imprinted genes [131]; however, TKO ES cells retain occupancy of H3K9 methylation and HP-1 in pericentromeric regions [131]. The link between DNA methylation and H3K9 methylation is via interaction of the enzymes mediating these marks.  DNMT1, for example, directly binds G9A both *in vivo* and *in vitro*, and these two proteins colocalize in H3K9 methylation at replication foci during DNA replication. Depletion of DNMT1 not only impairs DNA methylation but also retards G9A loading and H3K9 methylation on chromatin and rDNA repeats [128]. Similarly, heterochromatic colocalization of SUV39H1 and DNMT1 exists exclusively before cell division.
 
 ![Figure 2](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig2.png)
 
-<sub>Figure 2. **How the histone code may rely on the DNA methylation machinery for direction**. Upon binding to CpG-rich regions, DNMTs may directly recruit HMTs to these domains. During DNA replication, UHRF1 preferentially binds hemimethylated DNA and interacts with/ recruits DNMT1 and G9A. **PCNA** may also have a role in the recruitment process. Methyl-CpG– binding proteins (**MBDs**) specifically interact with methylated DNA and may form complexes with HMTs such as SETDB1 to direct histone methylation to regions of DNA methylation.</sub>
+<sub>Figure 2. **How the histone code may rely on the DNA methylation machinery for direction**. Upon binding to CpG-rich regions, DNMTs may directly recruit HMTs to these domains. During DNA replication, UHRF1 preferentially binds hemimethylated DNA and interacts with/ recruits DNMT1 and G9A. **PCNA** may also have a role in the recruitment process. Methyl-CpG– binding proteins (**MBDs**) specifically interact with methylated DNA and may form complexes with HMTs such as SETDB1 to direct histone methylation to regions of DNA methylation.(Figure from Ref.[89])</sub>
 
 Yet an additional link between DNA methylation and the histone code exists via the methyl-CpG–binding proteins (**MBDs**), which interact specifically with methylated DNA and mediate transcriptional repression (Fig. 2). During replication of DNA methylation-rich regions of the genome, **CAF1** forms a complex with **MBD1** and the histone lysine methyltransferase **SETDB1**, thereby coupling histone methylation with DNA methylation [125]. **MBD1** deletion suggest that H3K9 methylation mediated by **SETDB1** is dependent on **MBD1**, which recruits **SETDB1** to **CAF1** at active replication forks [132].
 
@@ -698,17 +721,72 @@ Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-spec
 
 [137]. Milne, T. A., Briggs, S. D., Brock, H. W., Martin, M. E., Gibbs, D., Allis, C. D., & Hess, J. L. (2002). MLL targets SET domain methyltransferase activity to Hox gene promoters. Molecular cell, 10(5), 1107-1117.
 
+[138]. Waddington, C. H. (2012). The epigenotype. International journal of epidemiology, 41(1), 10-13.
 
+[139]. Waddington, C. H. (1942). Canalization of development and the inheritance of acquired characters. Nature, 150(3811), 563-565.
 
+[140]. Allis, C. D., & Jenuwein, T. (2016). The molecular hallmarks of epigenetic control. Nature Reviews Genetics, 17(8), 487.
 
+[141]. Heitz, E. (1928). Das heterochromatin der moose. Bornträger.
 
+[142]. Muller, H. J., & Altenburg, E. (1930). The frequency of translocations produced by X-rays in Drosophila. Genetics, 15(4), 283.
 
+[143]. McClintock, B. (1951, January). Chromosome organization and genic expression. In Cold Spring Harbor symposia on quantitative biology (Vol. 16, pp. 13-47). Cold Spring Harbor Laboratory Press.
 
+[144]. Mf, L. (1961). Gene action in the X chromosome of the mouse. Nature, 190, 372-373.
 
+[145]. Surani, M. A. H., Barton, S. C., & Norris, M. L. (1984). Development of reconstituted mouse eggs suggests imprinting of the genome during gametogenesis. Nature, 308(5959), 548-550.
 
+[146]. McGrath, J., & Solter, D. (1984). Completion of mouse embryogenesis requires both the maternal and paternal genomes. Cell, 37(1), 179-183.
 
+[147]. Holliday, R., & Pugh, J. E. (1975). DNA modification mechanisms and gene activity during development. Science, 187(4173), 226-232.
 
+[148]. Razin, A., & Riggs, A. D. (1980). DNA methylation and gene function. Science, 210(4470), 604-610.
 
+[149]. Bird, A., Taggart, M., Frommer, M., Miller, O. J., & Macleod, D. (1985). A fraction of the mouse genome that is derived from islands of nonmethylated, CpG-rich DNA. Cell, 40(1), 91-99.
 
+[150]. Taylor, S. M., & Jones, P. A. (1979). Multiple new phenotypes induced in 10T12 and 3T3 cells treated with 5-azacytidine. Cell, 17(4), 771-779.
 
+[151]. Feinberg, A. P., & Vogelstein, B. (1983). Hypomethylation distinguishes genes of some human cancers from their normal counterparts. Nature, 301(5895), 89-92.
 
+[152]. Feinberg, A. P., & Tycko, B. (2004). The history of cancer epigenetics. Nature Reviews Cancer, 4(2), 143-153.
+
+[153]. Gruenbaum, Y., Cedar, H., & Razin, A. (1982). Substrate and sequence specificity of a eukaryotic DNA methylase. Nature, 295(5850), 620-622.
+
+[154]. Bestor, T. H., & Ingram, V. M. (1983). Two DNA methyltransferases from murine erythroleukemia cells: purification, sequence specificity, and mode of interaction with DNA. Proceedings of the National Academy of Sciences, 80(18), 5559-5563.
+
+[155]. Meehan, R. R., Lewis, J. D., McKay, S., Kleiner, E. L., & Bird, A. P. (1989). Identification of a mammalian protein that binds specifically to DNA containing methylated CpGs. Cell, 58(3), 499-507.
+
+[156]. Olins, D. E., & Olins, A. L. (2003). Chromatin history: our view from the bridge. Nature reviews Molecular cell biology, 4(10), 809-814.
+
+[157]. Kornberg, R. D. (1974). Chromatin structure: a repeating unit of histones and DNA. Science, 184(4139), 868-871.
+
+[158]. Luger, K., Mäder, A. W., Richmond, R. K., Sargent, D. F., & Richmond, T. J. (1997). Crystal structure of the nucleosome core particle at 2.8 Å resolution. Nature, 389(6648), 251-260.
+
+[159]. Allfrey, V. G., Faulkner, R., & Mirsky, A. E. (1964). Acetylation and methylation of histones and their possible role in the regulation of RNA synthesis. Proceedings of the National Academy of Sciences of the United States of America, 51(5), 786.
+
+[160]. Verdin, E., & Ott, M. (2015). 50 years of protein acetylation: from gene regulation to epigenetics, metabolism and beyond. Nature reviews Molecular cell biology, 16(4), 258-264.
+
+[161]. Kayne, P. S., Kim, U. J., Han, M., Mullen, J. R., Yoshizaki, F., & Grunstein, M. (1988). Extremely conserved histone H4 N terminus is dispensable for growth but essential for repressing the silent mating loci in yeast. Cell, 55(1), 27-39.
+
+[162]. Megee, P. C., Morgan, B. A., Mittman, B. A., & Smith, M. M. (1990). Genetic analysis of histone H4: essential role of lysines subject to reversible acetylation. Science, 247(4944), 841-845.
+
+[163]. Jeppesen, P., & Turner, B. M. (1993). The inactive X chromosome in female mammals is distinguished by a lack of histone H4 acetylation, a cytogenetic marker for gene expression. Cell, 74(2), 281-289.
+
+[164]. Braunstein, M., Sobel, R. E., Allis, C. D., Turner, B. M., & Broach, J. R. (1996). Efficient transcriptional silencing in Saccharomyces cerevisiae requires a heterochromatin histone acetylation pattern. Molecular and Cellular Biology, 16(8), 4349-4356.
+
+[165]. Bone, J. R., Lavender, J., Richman, R., Palmer, M. J., Turner, B. M., & Kuroda, M. I. (1994). Acetylated histone H4 on the male X chromosome is associated with dosage compensation in Drosophila. Genes & development, 8(1), 96-104.
+
+[166]. Hebbes, T. R., Clayton, A. L., Thorne, A. W., & Crane‐Robinson, C. (1994). Core histone hyperacetylation co‐maps with generalized DNase I sensitivity in the chicken beta‐globin chromosomal domain. The EMBO journal, 13(8), 1823-1830.
+
+[167]. Elgin, S. C., & Reuter, G. (2013). Position-effect variegation, heterochromatin formation, and gene silencing in Drosophila. Cold Spring Harbor perspectives in biology, 5(8), a017780.
+
+[168]. Grossniklaus, U., & Paro, R. (2014). Transcriptional silencing by polycomb-group proteins. Cold Spring Harbor perspectives in biology, 6(11), a019331.
+
+[169]. Kingston, R. E., & Tamkun, J. W. (2014). Transcriptional regulation by trithorax-group proteins. Cold Spring Harbor perspectives in biology, 6(10), a019349.
+
+[170]. Grunstein, M., & Gasser, S. M. (2013). Epigenetics in Saccharomyces cerevisiae. Cold Spring Harbor perspectives in biology, 5(7), a017491.
+
+[171]. Allshire, R. C., & Ekwall, K. (2015). Epigenetic regulation of chromatin states in Schizosaccharomyces pombe. Cold Spring Harbor perspectives in biology, 7(7), a018770.
+
+[172]. Pikaard, C. S., & Scheid, O. M. (2014). Epigenetic regulation in plants. Cold Spring Harbor perspectives in biology, 6(12), a019315.
