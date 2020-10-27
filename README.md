@@ -125,7 +125,7 @@ In the mid-1960s, pioneering work of Allfrey [159] on histone modifications, in 
 
 ##### In Euchromatin
 
-In 1996, Allis and colleagues purified and cloned the first histone acetyltransferase(**HAT**) - p55 from *T. thermophila* [173](Fig.3b). Strikingly, this ciliate HAT (p55) was an orthologue of the previously described transcriptional coactivator Gcn5 from budding yeast, providing a direct link between histone acetylation and gene activation. Other HATs were identified, including TAF1(TATA-box binding protein associated factor TFIID subunit 1, also known as TAF(II)250) [174], PCAF(p300/CBP-associated factor) [175] and CBP/p300 (CREB-binding protein and p300)[176, 177], thus confirming and extending this paradigm to mammalian cells [178].
+In 1996, Allis and colleagues purified and cloned the first histone acetyltransferase(**HAT**) - p55 from *T. thermophila* (Fig.3b) [173]. Strikingly, this ciliate HAT (p55) was an orthologue of the previously described transcriptional coactivator Gcn5 from budding yeast, providing a direct link between histone acetylation and gene activation. Other HATs were identified, including TAF1(TATA-box binding protein associated factor TFIID subunit 1, also known as TAF(II)250) [174], PCAF(p300/CBP-associated factor) [175] and CBP/p300 (CREB-binding protein and p300)[176, 177], thus confirming and extending this paradigm to mammalian cells [178].
 
 Approximately one month after the publication of the p55–Gcn5 HAT results [173], Schreiber and colleagues [179] reported the purification and cloning of the first histone deacetylase (**HDAC**), and it was found to be an orthologue of the budding yeast transcriptional co-repressor Rpd3 (Fig.3b), which indicated that histone deacetylation is linked to transcriptional repression. In 2000, Guarente and colleagues [180] demonstrated that a critical protein required for gene silencing in yeast, Sir2, was a NAD-requiring HDAC (Fig.4). Subsequently, seven Sir2-like enzymes were identified in mammalian cells, which are now known as the Sirtuin protein family. The Sir2-related HDACs triggered much research interest for their functions in metabolism and ageing, which are still under intense investigation today [181].
 
@@ -249,6 +249,20 @@ Direct interactions between HP1 and DNMT1 mediate silencing of euchromatic genes
 
 In addition to the direct recruitment of DNMTs, histone methyltransferases and demethylases may also influence the stability of DNMT proteins [120]. **SET7**, a known histone methyltransferase for H3K4, colocalizes with DNMT1 and methylates DNMT1 at the K142 position to regulate its stability and degradation. Overexpression of **SET7** leads to decreased DNMT1 levels, and siRNA-mediated knockdown of **SET7** stabilizes DNMT1 [120]. Lysine-specific demethylase 1 (**LSD1**) has been shown to demethylate histone H3K4 and H3K9. **LSD1** also demethylates DNMT1 methylated at K142 to antagonize the effect of **SET7** [121].
 
+#### Links between DNA Methylation & Nucleosome Positioning
+
+Chromatin, rather than naked DNA, is the substrate for all processes that affect genes and chromosomes. Nucleosomes form the fundamental repeating unit of eukaryotic chromatin, serving as the basic module for DNA packaging that regulates the accessibility of DNA to interacting proteins and alters transcriptional states [189]. 
+
+Studies have revealed that nucleosomal DNA is an important substrate for the DNMTs [190, 191]. Genome-wide nucleosome positioning analysis in human cells showed that **DNA methylation is enriched in nucleosome-bound DNA rather than linker DNA**, indicating that nucleosome-bound DNA is a preferred substrate for DNA methylation [191]. Jeong et al reported that **DNMT3A** and **DNMT3B** are strongly anchored to nucleosomes, whereas **DNMT1** interacts primarily with linker DNA [190]. Deletion experiments demonstrated that the N-terminal region of DNMT3A and DNMT3B, which contains PWWP and PHD-like motifs, plays an essential role in their strong nucleosomal binding [190]. **DNMT3A** was recently shown to specifically bind the **H3K36me3** mark through its **PWWP** domain, which is important for the subnuclear localization of DNMT3A and suggested that nucleosomal binding of DNMT3A and DNMT3B might, at least in part, be mediated by its interaction with **H3K36me3** [192]. Surprisingly, some well-known chromatin-modifying proteins, such as PCNA, HP1, MBD2, EZH2, HDAC1, and UHRF1, are not required for DNMT3A and DNMT3B to bind to nucleosomes [190]. **SINE and LINE repetitive elements and CGIs in nucleosomes represent the main binding sites of DNMT3A and DNMT3B**, suggesting that additional cues, other than hemimethylated DNA, from the chromatin are needed for inheritance of DNA methylation.
+
+**Nucleosome positioning also has a striking effect on DNA methylation.**  As a linker histone, H1 reduction leads to decreases in nucleosome repeat length, which is a primary determinant of nucleosome spacing [193]. Interestingly, depletion of histone H1 induces DNA hypomethylation of specific CGIs such as the imprinting control regions of the H19-Igf2 and Gtl2-Dlk1 loci [193].
+
+Nucleosome positioning displays a sequence preference characterized by particular dinucleotides, tending to occur periodically throughout the nucleosome with 10-bp periodicity [198]. This sequence preference might arise from the near-circular wrapping of the nucleosomal DNA, which requires sharp bending every helical repeat (10 bp) [198, 199]. DNMTs enter the major groove to access and methylate the cytosine on the outside of the nucleosome (minor groove). As nucleosome-bound DNA shows a 10-bp periodicity in its CG, CHG, and CHH methylation, nucleosomes appear to dictate access to the DNA and therefore set the register of methylation for all DNA methyltransferases. 
+
+
+**It is well known that the composition of the nucleosome core particle influences chromatin structure and nucleosome positioning.** Emerging evidence has revealed that replacement of the core histones with variants of histone H2A or H3 represents another potential means of gene regulation [194, 195, 196, 197]. The histone H2A variant **H2A.Z** is excluded from regions of methylated DNA, and **H2A.Z** enrichment varies inversely with transcription within gene bodies, a finding conserved from plants to animals, indicating that H2A.Z incorporation may contribute to transcriptional activation by protecting genes against DNA methylation [196]. 
+
+
 ## Gene Regulation of Epigenetics
 
 ### DNA Methylation
@@ -295,7 +309,17 @@ DNA methylation–free CGIs recruit CFP1, and probably other CXXC domain– cont
 
 ### Epigenetics in Gene Body
 
+Bulk of evidence suggests that it is associated with gene activation, and it has been noted in a range of cell and tissue types, and in both plants and animals [203, 204, 205, 206, 207]. Zemach et al analyzed DNA methylation patterns in 17 eukaryotic genomes and showed that gene body methylation is conserved between plants and animals [197].
 
+A few theories have been proposed to explain how intragenic methylation promotes gene expression. One suggests that intragenic methylation represses transcription of the antisense sequence, which may interfere with the expression of the sense gene [111, 208]. An alternative theory proposes that intragenic methylation increases transcriptional efficiency through the repression of **cryptic** promoters, which are normally silenced promoters found within genes [209]. Experimental evidence supported the repression of **cryptic** promoters hypothesis came from [210].
+
+Experimentally imposed gene body methylation of an integrated transgene revealed that methylation impaired elongation of transcription *in vivo* [201].
+
+![Figure 5](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig5.png)
+
+<sub>Figure 5. **Intragenic DNA methylation is associated with highly expressed genes**. When unmethylated, RNA polymerase II may begin transcription at cryptic promoters. This activity may reduce the transcriptional efficiency of the gene product (Part A). Therefore, intragenic methylation at cryptic promoters may improve transcriptional efficiency (Part B). TSS, transcription start site; RNA pol II, RNA polymerase II.. (Figure from Ref.[211])</sub>
+
+Recent genome-wide studies have revealed that nucleosomes are significantly more enriched in exons compared to introns, consistent with other recent findings of enhanced exonic methylation of gene bodies [200].
 
 ## Maintenance of Epigenetics
 
@@ -843,8 +867,51 @@ Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-spec
 
 [188]. Bauer, U. M., Daujat, S., Nielsen, S. J., Nightingale, K., & Kouzarides, T. (2002). Methylation at arginine 17 of histone H3 is linked to gene activation. EMBO reports, 3(1), 39-44.
 
+[189]. Jiang, C., & Pugh, B. F. (2009). Nucleosome positioning and gene regulation: advances through genomics. Nature Reviews Genetics, 10(3), 161-172.
 
+[190]. Jeong, S., Liang, G., Sharma, S., Lin, J. C., Choi, S. H., Han, H., ... & Jones, P. A. (2009). Selective anchoring of DNA methyltransferases 3A and 3B to nucleosomes containing methylated DNA. Molecular and cellular biology, 29(19), 5366-5376.
 
+[191]. Chodavarapu, R. K., Feng, S., Bernatavichute, Y. V., Chen, P. Y., Stroud, H., Yu, Y., ... & Casero, D. (2010). Relationship between nucleosome positioning and DNA methylation. Nature, 466(7304), 388-392.
+
+[192]. Dhayalan, A., Rajavelu, A., Rathert, P., Tamas, R., Jurkowska, R. Z., Ragozin, S., & Jeltsch, A. (2010). The Dnmt3a PWWP domain reads histone 3 lysine 36 trimethylation and guides DNA methylation. Journal of Biological Chemistry, 285(34), 26114-26120.
+
+[193]. Fan, Y., Nikitina, T., Zhao, J., Fleury, T. J., Bhattacharyya, R., Bouhassira, E. E., ... & Skoultchi, A. I. (2005). Histone H1 depletion in mammals alters global chromatin structure but causes specific changes in gene regulation. Cell, 123(7), 1199-1212.
+
+[194]. Raisner, R. M., Hartley, P. D., Meneghini, M. D., Bao, M. Z., Liu, C. L., Schreiber, S. L., ... & Madhani, H. D. (2005). Histone variant H2A. Z marks the 5′ ends of both active and inactive genes in euchromatin. Cell, 123(2), 233-248.
+
+[195]. Malik, H. S., & Henikoff, S. (2003). Phylogenomics of the nucleosome. Nature structural & molecular biology, 10(11), 882-891.
+
+[196]. Zilberman, D., Coleman-Derr, D., Ballinger, T., & Henikoff, S. (2008). Histone H2A. Z and DNA methylation are mutually antagonistic chromatin marks. Nature, 456(7218), 125-129.
+
+[197]. Zemach, A., McDaniel, I. E., Silva, P., & Zilberman, D. (2010). Genome-wide evolutionary analysis of eukaryotic DNA methylation. Science, 328(5980), 916-919.
+
+[198]. Widom, J. (2001). Role of DNA sequence in nucleosome stability and dynamics. Quarterly reviews of biophysics, 34(3), 269.
+
+[199]. Segal, E., & Widom, J. (2009). What controls nucleosome positions?. Trends in Genetics, 25(8), 335-343.
+
+[200]. Schwartz, S., Meshorer, E., & Ast, G. (2009). Chromatin organization marks exon-intron structure. Nature structural & molecular biology, 16(9), 990.
+
+[201]. Lorincz, M. C., Dickerson, D. R., Schmitt, M., & Groudine, M. (2004). Intragenic DNA methylation alters chromatin structure and elongation efficiency in mammalian cells. Nature structural & molecular biology, 11(11), 1068-1075.
+
+[202]. Feng, S., Cokus, S. J., Zhang, X., Chen, P. Y., Bostick, M., Goll, M. G., ... & Ukomadu, C. (2010). Conservation and divergence of methylation patterning in plants and animals. Proceedings of the National Academy of Sciences, 107(19), 8689-8694.
+
+[203]. Jjingo, D., Conley, A. B., Soojin, V. Y., Lunyak, V. V., & Jordan, I. K. (2012). On the presence and role of human gene-body DNA methylation. Oncotarget, 3(4), 462.
+
+[204]. Rauch, T. A., Wu, X., Zhong, X., Riggs, A. D., & Pfeifer, G. P. (2009). A human B cell methylome at 100− base pair resolution. Proceedings of the National Academy of Sciences, 106(3), 671-678.
+
+[205]. Smith, F. M., Garfield, A. S., & Ward, A. (2006). Regulation of growth and metabolism by imprinted genes. Cytogenetic and genome research, 113(1-4), 279-291.
+
+[206]. Aran, D., Toperoff, G., Rosenberg, M., & Hellman, A. (2011). Replication timing-related and gene body-specific methylation of active human genes. Human molecular genetics, 20(4), 670-680.
+
+[207]. Baubec, T., Colombo, D. F., Wirbelauer, C., Schmidt, J., Burger, L., Krebs, A. R., ... & Schübeler, D. (2015). Genomic profiling of DNA methyltransferases reveals a role for DNMT3B in genic methylation. Nature, 520(7546), 243-247.
+
+[208]. Tran, R. K., Henikoff, J. G., Zilberman, D., Ditt, R. F., Jacobsen, S. E., & Henikoff, S. (2005). DNA methylation profiling identifies CG methylation clusters in Arabidopsis genes. Current Biology, 15(2), 154-159.
+
+[209]. Shenker, N., & Flanagan, J. M. (2012). Intragenic DNA methylation: implications of this epigenetic mechanism for cancer research. British journal of cancer, 106(2), 248-253.
+
+[210]. Maunakea, A. K., Nagarajan, R. P., Bilenky, M., Ballinger, T. J., D’Souza, C., Fouse, S. D., ... & Turecki, G. (2010). Conserved role of intragenic DNA methylation in regulating alternative promoters. Nature, 466(7303), 253-257.
+
+[211]. Bommarito, P. A., & Fry, R. C. (2019). The Role of DNA Methylation in Gene Regulation. In Toxicoepigenetics (pp. 127-151). Academic Press.
 
 
 
