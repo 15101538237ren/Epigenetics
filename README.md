@@ -109,10 +109,6 @@ The major epigenetic signals include DNA methylation and demethylation, covalent
 
 Epigenetic mechanisms work in addition to the DNA template to stabilize gene expression programmes and thereby canalize cell-type identities [140]. The genetic message is differentially decoded in both time and space as a result of epigenetic constraints on the genome resulting either in gene activation or silencing[85].
 
-![Figure 4](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig4.png)
-
-<sub>Figure 4. **Timeline of major discoveries and advances in epigenetic research between 1996 and 2016**. (Figure from Ref.[140])</sub>
-
 ### Foundation of epigenetics
 
 Pioneering work carried out between 1869 and 1928 by Miescher, Flemming, Kossel and Heitz defined nucleic acids, chromatin and histone proteins, which led to the cytological distinction between **euchromatin** and **heterochromatin** [141] (Fig.3a). This was followed by ground-breaking studies by Muller [142] (in Drosophila melanogaster) and McClintock [143] (in maize) on position-effect variegation (PEV) and transposable elements, providing early hints of non-Mendelian inheritance. Descriptions of the phenomena of X-chromosome inactivation [144] and imprinting [145, 146] subsequently led to the general concept that identical genetic material can be maintained in different **on** versus **off** states in the same nucleus, but its underlying mechanisms were poorly understood. 
@@ -131,14 +127,25 @@ In the mid-1960s, pioneering work of Allfrey [159] on histone modifications, in 
 
 In 1996, Allis and colleagues purified and cloned the first histone acetyltransferase(**HAT**) - p55 from *T. thermophila* [173](Fig.3b). Strikingly, this ciliate HAT (p55) was an orthologue of the previously described transcriptional coactivator Gcn5 from budding yeast, providing a direct link between histone acetylation and gene activation. Other HATs were identified, including TAF1(TATA-box binding protein associated factor TFIID subunit 1, also known as TAF(II)250) [174], PCAF(p300/CBP-associated factor) [175] and CBP/p300 (CREB-binding protein and p300)[176, 177], thus confirming and extending this paradigm to mammalian cells [178].
 
-Approximately one month after the publication of the p55–Gcn5 HAT results [173], Schreiber and colleagues [179] reported the purification and cloning of the first histone deacetylase (**HDAC**), and it was found to be an orthologue of the budding yeast transcriptional co-repressor Rpd3 (Fig.3b), which indicated that histone deacetylation is linked to transcriptional repression. In 2000, Guarente and colleagues [180] demonstrated that a critical protein required for gene silencing in yeast, Sir2, was a NAD-requiring HDAC (Fig.4). Subsequently, seven Sir2-like enzymes were identified in mammalian cells, which are now known as the Sirtuin protein family. 
+Approximately one month after the publication of the p55–Gcn5 HAT results [173], Schreiber and colleagues [179] reported the purification and cloning of the first histone deacetylase (**HDAC**), and it was found to be an orthologue of the budding yeast transcriptional co-repressor Rpd3 (Fig.3b), which indicated that histone deacetylation is linked to transcriptional repression. In 2000, Guarente and colleagues [180] demonstrated that a critical protein required for gene silencing in yeast, Sir2, was a NAD-requiring HDAC (Fig.4). Subsequently, seven Sir2-like enzymes were identified in mammalian cells, which are now known as the Sirtuin protein family. The Sir2-related HDACs triggered much research interest for their functions in metabolism and ageing, which are still under intense investigation today [181].
+
+In 1999, Zhou and colleagues [182] documented the bromodomain from **PCAF** as an acetyl-lysine binding module for docking onto acetylated histones. This was the first histone-modification-binding domain to be described, suggesting a novel mechanism (*trans*-effects) for the binding of bromodomain-containing factors to acetylated targets in chromatin. To date, a multitude of chromatin-binding modules have been described, many in atomic resolution with their cognate modified-histone ligands [178, 183]. 
 
 ##### In Heterochromatin
+
+The discovery of the first histone lysine methyltransferase (**KMT**)  containing an evolutionarily conserved SET domain, identified by Reuter [184], and mammalian orthologues cloned and characterized by Jenuwein [185]. The SET domain is present in Su(var)3–9 (Suppressor of variegation 3–9, a histone H3 lysine 9 (H3K9) methylating enzyme), E(z) (Enhancer of zeste, a histone H3 lysine 27 (H3K27) methylating enzyme) and Trithorax (a histone H3 lysine 4 (H3K4) methylating enzyme) proteins, all of which had been implicated in epigenetic regulation without evidence of enzymatic activity.
+
+##### Histone Arginine Methylation
+
+Histone arginine methylation has been associated with gene regulation, as the co-activator CARM1 (coactivator-associated arginine methyltransferase 1)[186] or the PRMT1(protein arginine N-methyltransferase 1) [187] can mediate hormone-dependent transcriptional stimulation via H3R17 [188] or H4R3 methylation [187].
+
+![Figure 4](https://github.com/Read-Lab-UCI/Epigenetics/blob/main/Figures/Fig4.png)
+
+<sub>Figure 4. **Timeline of major discoveries and advances in epigenetic research between 1996 and 2016**. (Figure from Ref.[140])</sub>
 
 #### Introduction of histone modification 
 
 Histone tails undergo a variety of covalent modifications including acetylation, methylation, phosphorylation, ubiquitination, and sumoylation, regulating key cellular process such as gene transcription, DNA replication, and DNA repair [113, 114].
-
 
 ### DNA methylation
 
@@ -819,6 +826,28 @@ Epigenetic hallmarks of cancer include global DNA hypomethylation and locus-spec
 [179]. Taunton, J., Hassig, C. A., & Schreiber, S. L. (1996). A mammalian histone deacetylase related to the yeast transcriptional regulator Rpd3p. Science, 272(5260), 408-411.
 
 [180]. Imai, S. I., Armstrong, C. M., Kaeberlein, M., & Guarente, L. (2000). Transcriptional silencing and longevity protein Sir2 is an NAD-dependent histone deacetylase. Nature, 403(6771), 795-800.
+
+[181]. Berger, S. L., & Sassone-Corsi, P. (2016). Metabolic signaling to chromatin. Cold Spring Harbor perspectives in biology, 8(11), a019463.
+
+[182]. Dhalluin, C., Carlson, J. E., Zeng, L., He, C., Aggarwal, A. K., & Zhou, M. M. (1999). Structure and ligand of a histone acetyltransferase bromodomain. Nature, 399(6735), 491-496.
+
+[183]. Patel, D. J. (2016). A structural perspective on readout of epigenetic histone and DNA methylation marks. Cold Spring Harbor perspectives in biology, 8(3), a018754.
+
+[184]. Tschiersch, B., Hofmann, A., Krauss, V., Dorn, R., Korge, G., & Reuter, G. (1994). The protein encoded by the Drosophila position‐effect variegation suppressor gene Su (var) 3‐9 combines domains of antagonistic regulators of homeotic gene complexes. The EMBO journal, 13(16), 3822-3831.
+
+[185]. Aagaard, L., Laible, G., Selenko, P., Schmid, M., Dorn, R., Schotta, G., ... & Reuter, G. (1999). Functional mammalian homologues of the Drosophila PEV‐modifier Su (var) 3‐9 encode centromere‐associated proteins which complex with the heterochromatin component M31. The EMBO journal, 18(7), 1923-1938.
+
+[186]. Chen, D., Ma, H., Hong, H., Koh, S. S., Huang, S. M., Schurter, B. T., ... & Stallcup, M. R. (1999). Regulation of transcription by a protein methyltransferase. Science, 284(5423), 2174-2177.
+
+[187]. Wang, H., Huang, Z. Q., Xia, L., Feng, Q., Erdjument-Bromage, H., Strahl, B. D., ... & Zhang, Y. (2001). Methylation of histone H4 at arginine 3 facilitating transcriptional activation by nuclear hormone receptor. Science, 293(5531), 853-857.
+
+[188]. Bauer, U. M., Daujat, S., Nielsen, S. J., Nightingale, K., & Kouzarides, T. (2002). Methylation at arginine 17 of histone H3 is linked to gene activation. EMBO reports, 3(1), 39-44.
+
+
+
+
+
+
 
 
 
